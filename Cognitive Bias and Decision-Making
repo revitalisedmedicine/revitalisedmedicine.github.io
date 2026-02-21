@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cognitive Bias and Decision-Making Webinar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #000;
+      line-height: 1.7;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: #fff;
+    }
+    h1, h2 {
+      font-weight: bold;
+      margin-top: 1.5em;
+    }
+    h1 { font-size: 2rem; }
+    p { margin: 1em 0; }
+    iframe {
+      width: 100%;
+      height: 500px;
+      border: none;
+      margin: 20px 0;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #333;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
+    }
+    a { color: crimson; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  <h1>Cognitive Bias and Decision-Making</h1>
+  <p><em>Webinar hosted by Revitalised Medicine</em></p>
+
+  <p>Learn about a phenomenon with which humans find themselves struggling on a frequent basis and ways on how to mitigate it in this webinar recording by Revitalised Medicine workshop host Edha Talwar, a grade eleven Canadian student known for her leadership in mental health advocacy, about the gut-brain axis, her topic for a Cambridge center for international research project. Talwar has published research on glioblastoma aptamers and has presented her findings at the Stanford neuroscience convention earlier this year. She's also the director of her town's Careforbrains chapter, where she promotes brain health!</p>
+
+  <h2>Presenter</h2>
+  <p>Edha Talwar · Workshop Host at Revitalised Medicine</p>
+
+  <h2>Watch the Webinar</h2>
+  <iframe src="https://www.youtube.com/embed/m0-FJgP6h0E" allowfullscreen></iframe>
+
+  <h2>Resources</h2>
+  <ul>
+    <li><a href="https://revitalisedmedicine.weebly.com/cognitive-bias-and-decision-making.html">Webinar Hosted Page</a></li>
+  </ul>
+
+  <footer>
+    <p>© 2026 Revitalised Medicine. All rights reserved.</p>
+    <p><a href="https://revitalisedmedicine.weebly.com/">Back to Home</a></p>
+  </footer>
+
+</body>
+</html>
