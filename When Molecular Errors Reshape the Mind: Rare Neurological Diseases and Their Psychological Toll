@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>When Molecular Errors Reshape the Mind</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>When Molecular Errors Reshape the Mind: Rare Neurological Diseases and Their Psychological Toll</h1>
+    <div class="meta">Edha Talwar · Neurology Staff Writer at Revitalised Medicine · 26 September 2025</div>
+  </header>
+
+  <!-- Replace with the exact featured image you download -->
+  <img src="molecular-errors-neuro.jpg" alt="Brain with molecular mechanisms illustration">
+
+  <p>Mutant prion proteins (PrP) can overstimulate NMDA receptors in mouse brains, allowing excessive calcium into neurons and damaging them; this process is linked to prion diseases caused by accumulating misfolded proteins like Fatal Familial Insomnia. These misfolded proteins resist degradation and accumulate in neural tissue, especially in the thalamus, disrupting deep sleep and leading to cognitive decline, hallucinations, and fatal outcomes. :contentReference[oaicite:1]{index=1}</p>
+
+  <p>Neurological diseases often disturb memory, self‑control, and perception — the very elements that define human identity. In recent years, unusual disorders such as Fatal Familial Insomnia, Alien Hand Syndrome, Anti‑NMDA Receptor Encephalitis, and Stiff‑Person Syndrome have forced clinicians to confront the fragile intersection of molecular biology and psychology. :contentReference[oaicite:2]{index=2}</p>
+
+  <h2>Fatal Familial Insomnia</h2>
+  <p>Fatal Familial Insomnia (FFI) is caused by a mutation in the <em>PRNP</em> gene, leading to abnormally folded prion proteins that accumulate and damage thalamic neurons responsible for sleep regulation. As the disease progresses, patients lose the ability to generate deep sleep, leading to cognitive decline, hallucinations, and death typically within 12–18 months. Psychologically, the awareness of chronic sleeplessness produces profound anxiety, desperation, and existential distress. :contentReference[oaicite:3]{index=3}</p>
+
+  <h2>Alien Hand Syndrome</h2>
+  <p>Alien Hand Syndrome (AHS) arises when the corpus callosum or supplementary motor areas are damaged. Without proper coordination between brain hemispheres, one hand performs actions independent of conscious will. Patients often feel detached from the limb’s actions, causing anxiety, embarrassment, and identity disruption. :contentReference[oaicite:4]{index=4}</p>
+
+  <h2>Anti‑NMDA Receptor Encephalitis</h2>
+  <p>Anti‑NMDA Receptor Encephalitis is an autoimmune disorder where antibodies target NMDA‑type glutamate receptors, critical for memory and learning. This causes psychotic symptoms — such as delusions and hallucinations — before progressing to neurological features like seizures and loss of speech. Because it often presents like primary psychiatric disorders, delays in diagnosis are common. Survivors frequently develop post‑traumatic stress disorder (PTSD) due to both the illness and extended intensive care. :contentReference[oaicite:5]{index=5}</p>
+
+  <h2>Stiff‑Person Syndrome</h2>
+  <p>Stiff‑Person Syndrome (SPS) is an autoimmune condition where antibodies attack glutamic acid decarboxylase (GAD65), an enzyme required for synthesizing the inhibitory neurotransmitter GABA. Reduced GABA causes excessive neuronal excitation, leading to persistent muscle rigidity and painful spasms. The unpredictability of symptoms frequently triggers anxiety and avoidance behaviours. Many patients experience chronic depression and social withdrawal, reflecting both neurochemical changes and the relentless physical limitations of the disorder. :contentReference[oaicite:6]{index=6}</p>
+
+  <h2>The Intersection of Molecules and Minds</h2>
+  <p>Although these neurological disorders arise from distinct molecular mechanisms — misfolded proteins, disrupted interhemispheric signalling, receptor autoimmunity, or impaired inhibitory neurotransmission — their outcomes often converge on a common theme: erosion of personal autonomy and psychological security. Advances in molecular neuroscience offer improved diagnosis and treatment pathways, but true healing also requires attention to the psychological challenges these diseases impose on patients and caregivers alike. :contentReference[oaicite:7]{index=7}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Edha Talwar. <em>When Molecular Errors Reshape the Mind: Rare Neurological Diseases and Their Psychological Toll</em>. Revitalised Medicine, 26 September 2025. :contentReference[oaicite:8]{index=8}</li>
+      <li>Peall K.J., Owen M.J., Hall J. Rare genetic brain disorders with overlapping neurological and psychiatric phenotypes. <em>Nat Rev Neurol</em>, 2024. :contentReference[oaicite:9]{index=9}</li>
+      <li>Roberts C‑T., Saei Arezoumand K., Shahib A.K., et al. Epigenetics in rare neurological diseases. <em>Front Cell Dev Biol</em>, 2024. :contentReference[oaicite:10]{index=10}</li>
+      <li>Nunn R. “It’s not all in my head!” — The complex relationship between rare diseases and mental health problems. <em>Orphanet J Rare Dis</em>, 2017. :contentReference[oaicite:11]{index=11}</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
