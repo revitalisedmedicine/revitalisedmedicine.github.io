@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Barriers Faced by Marginalised Communities in Accessing Treatment for Rare Cardiological Diseases</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem auto;
+      max-width: 800px;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Barriers Faced by Marginalised Communities in Accessing Treatment for Rare Cardiological Diseases</h1>
+    <div class="meta">Ifza Zia · Cardiology Staff Writer at Revitalised Medicine · 8 December 2025</div>
+  </header>
+
+  <!-- Replace this with the actual image file you downloaded -->
+  <img src="barriers-marginalised-cardio.jpg" alt="Diagram illustrating disparities in cardiovascular care access">
+
+  <p>People from marginalised communities often face challenges when trying to access remedies for rare cardiological diseases. Treatment for those conditions already requires specialised tests and expert doctors, which are not available everywhere. For low‑income families, the cost of travelling to major hospitals and paying for advanced diagnostic procedures becomes a major barrier. Many patients delay treatment because they cannot afford repeated check‑ups or expensive tests, and this delay can worsen rare heart conditions that need early attention. :contentReference[oaicite:0]{index=0}</p>
+
+  <p>Gender differences also play a significant role in unequal access. Women — especially in underserved regions — are often under‑diagnosed because their heart symptoms may present differently from men’s, leading healthcare professionals to misinterpret or dismiss early signs of cardiological disease. Research shows that women with rare heart conditions, such as spontaneous coronary artery dissection (SCAD), frequently experience delayed diagnosis due to lack of provider awareness. These inequities are amplified for women who belong to racial minority groups or low‑income households, as social expectations, limited access to preventive care, and reduced healthcare decision‑making power further contribute to late diagnosis. :contentReference[oaicite:1]{index=1}</p>
+
+  <p>The <em>Public Health Monitor</em> (2025) report — conducted by a regional public health surveillance team during a viral infection outbreak linked to increased myocarditis incidence — analysed hospital admissions, diagnostic timelines, and patient demographics across multiple facilities. Its major findings highlighted that patients from under‑represented racial and low‑income backgrounds experienced significant delays in receiving advanced cardiac imaging, such as MRI and echocardiography, despite presenting with equally severe symptoms. The report attributed these delays to structural factors including limited access to specialist services, implicit medical bias, and gaps in referral pathways during periods of healthcare strain. :contentReference[oaicite:2]{index=2}</p>
+
+  <p>The report also emphasised that gender and socioeconomic status compounded these disparities, with women and uninsured patients more likely to have symptoms initially underestimated. Systemic inequities in cardiological care contribute to delayed diagnosis, disease progression, and poorer outcomes, underscoring the need for policy reforms, bias‑awareness training, and more equitable allocation of cardiac diagnostic resources — especially during public health emergencies. :contentReference[oaicite:3]{index=3}</p>
+
+  <p>Current events continue to illustrate how income, gender, and race intersect to shape access to cardiological care. Even when new treatments or clinical trials become available, marginalised groups are often under‑represented, meaning they miss out on the benefits of cutting‑edge research and innovations. Community‑based programmes and awareness campaigns have shown promise in helping reduce these gaps, but progress is slow and much work remains. :contentReference[oaicite:4]{index=4}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Ifza Zia. <em>Barriers Faced by Marginalised Communities in Accessing Treatment for Rare Cardiological Diseases</em>. Revitalised Medicine, 8 December 2025. :contentReference[oaicite:5]{index=5}</li>
+      <li>Health disparities lead to unequal access to cardiac care and treatment in disadvantaged communities. :contentReference[oaicite:6]{index=6}</li>
+      <li>Underrepresented populations face challenges in clinical research, healthcare access, and socioeconomic barriers. :contentReference[oaicite:7]{index=7}</li>
+    </ul>
+  </section>
+</article>
+
+</body>
+</html>
