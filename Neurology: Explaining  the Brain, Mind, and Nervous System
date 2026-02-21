@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Neurology: Explaining the Brain, Mind, and Nervous System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Neurology: Explaining the Brain, Mind, and Nervous System</h1>
+    <div class="meta">Edha Talwar · Neurology Staff Writer at Revitalised Medicine · 19 August 2025</div>
+  </header>
+
+  <!-- Replace with the featured image from the original article -->
+  <img src="neurology-overview.jpg" alt="Illustration of brain and nervous system architecture">
+
+  <p>The major components of the nervous system — including the brain, spinal cord, and peripheral nerves — work together to control movement, sensation, and cognition through interconnected networks of neurons and synapses. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/neurology-explaining-the-brain-mind-and-nervous-system.html))</p>
+
+  <p><strong>Neurology</strong> is the branch of medicine that focuses on the structure, function, and disorders of the nervous system — the complex network that includes the brain, spinal cord, nerves, and muscles. Neurologists study normal biological processes of nervous tissues and investigate what happens when things go wrong. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/neurology-explaining-the-brain-mind-and-nervous-system.html))</p>
+
+  <p>The nervous system mediates every aspect of our daily functioning — from memory and movement to emotions and decision‑making — because even subtle electrical and chemical changes at synapses influence entire physiological networks. Many neurological conditions such as epilepsy, multiple sclerosis, and Parkinson’s disease arise when electrical signalling becomes disrupted or when the immune system attacks neural tissues. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/neurology-explaining-the-brain-mind-and-nervous-system.html))</p>
+
+  <p>Stroke — another major neurological problem — occurs when blood flow to parts of the brain is blocked, leading to cell death and disability. Neurologists also manage headaches, nerve pain, sleep issues, and neuromuscular disorders. Diagnostic tools such as MRI (Magnetic Resonance Imaging), CT (Computed Tomography), and EEG (Electroencephalogram) are crucial in confirming underlying nervous system abnormalities. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/neurology-explaining-the-brain-mind-and-nervous-system.html))</p>
+
+  <p>Neurological research is rapidly advancing. Improvements in brain imaging, genetic decoding, and understanding neural repair mechanisms offer hope for conditions once considered untreatable — such as recovery after trauma or reversing damage from autoimmune attacks on myelin. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/neurology-explaining-the-brain-mind-and-nervous-system.html))</p>
+
+  <p>Neurology also overlaps with mental health because neurological and psychiatric symptoms often intersect. Understanding both biological and behavioral aspects of brain function helps clinicians provide comprehensive care. As the global population ages, the prevalence of neurological diseases will increase, and innovations like gene therapy, personalized medicine, and brain‑computer interfaces may transform future treatment. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/neurology-explaining-the-brain-mind-and-nervous-system.html))</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Edha Talwar. <em>Neurology: Explaining the Brain, Mind, and Nervous System</em>. Revitalised Medicine, 19 August 2025. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/neurology-explaining-the-brain-mind-and-nervous-system.html))</li>
+      <li>National Institute of Neurological Disorders and Stroke — Brain Basics. U.S. NIH. (2024). ([ninds.nih.gov](https://www.ninds.nih.gov/health-information/public-education/brain-basics?utm_source=chatgpt.com))</li>
+      <li>National Institute of Neurological Disorders and Stroke — Stroke Overview. U.S. NIH. (2025). ([ninds.nih.gov](https://www.ninds.nih.gov/health-information/stroke/stroke-overview?utm_source=chatgpt.com))</li>
+      <li>Understanding Neurology: The Science of the Nervous System (prime scholars overview). ([primescholars.com](https://www.primescholars.com/articles/understanding-neurology-the-science-of-the-nervous-system-131519.html?utm_source=chatgpt.com))</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
