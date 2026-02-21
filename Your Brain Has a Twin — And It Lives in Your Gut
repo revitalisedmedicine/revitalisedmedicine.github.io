@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Brain Has a Twin — And It Lives in Your Gut</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem auto;
+      max-width: 800px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    .article-header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .article-meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    .content p {
+      margin-bottom: 1rem;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+  <article>
+    <header class="article-header">
+      <h1>Your Brain Has a Twin — And It Lives in Your Gut</h1>
+      <div class="article-meta">Hanshika Dharma · Anatomy Editor in Chief at Revitalised Medicine · 8 August 2025</div>
+    </header>
+
+    <!-- Placeholder — replace "image.jpg" with actual downloaded image -->
+    <img src="gut-entero-nervous-system.jpg" alt="Enteric Nervous System in gut walls" />
+
+    <section class="content">
+      <p>You do have a second brain – and it's in your gut! It’s called the <strong>Enteric Nervous System</strong>, and it lives in your belly. What is the Enteric Nervous System?</p>
+
+      <p>This nervous system controls the digestive system, and it is one of the three Autonomic Nervous Systems: the others being the sympathetic nervous system (SNS) and parasympathetic nervous system (PSNS). While the Enteric Nervous System works independently, it communicates with both SNS and PSNS.</p>
+
+      <h2>About the Enteric Nervous System</h2>
+
+      <p>The Enteric Nervous System has about <strong>500 million neurons</strong> — that is 0.5% of the number of neurons in the brain and five times greater than the number of neurons in the spinal cord.</p>
+
+      <h2>What Does It Do?</h2>
+
+      <p>The Enteric Nervous System (ENS) plays a crucial role in our physiology, monitoring acidity, promoting bowel movement, and overseeing our defense levels. Furthermore, it helps detect irritants in the gut and sends signals to the brain's vomiting center, influencing whether the reflex is triggered or suppressed.</p>
+
+      <p>In such cases, the ENS will induce vomiting or diarrhea while it determines and controls the movements of the gastrointestinal tract. The ENS also plays a role in controlling local blood flow dynamics in the gut by regulating gut hormone release and interacting closely with immune cells in the digestive tract.</p>
+
+      <h2>Gut‑Brain Relations</h2>
+
+      <p>The Enteric Nervous System communicates with the brain through the vagus nerve and the <em>Gut‑Brain Axis</em>, the communication network between the Central Nervous System and the gastrointestinal tract, explaining various actions our stomach performs.</p>
+
+      <p>In cases of anxiety, our stomachs are said to go ‘queasy’ or nauseous, whereas during states of euphoria, we are said to get ‘butterflies.’ Likewise, the mere thinking of eating food results in the stomach releasing digestive juices. Like the brain, the Enteric Nervous System uses more than thirty neurotransmitters, and <strong>95 percent of the body's serotonin</strong> is found in the bowel.</p>
+
+      <p>Hence, similarities between cerebral nervous systems and the Enteric Nervous System mean that certain depression treatments may target both the gut and brain.</p>
+
+      <h2>Its Effect in the Future of Medicine?</h2>
+
+      <p>Scientists are learning that the serotonin made by the Enteric Nervous System might also play a role in more surprising diseases. The Enteric Nervous System regulates bone mass to the extent that one could use this regulation to cure osteoporosis, a disease weakening bone structure.</p>
+
+      <p>Dr. Michael Gershon, Professor of Pathology and Cell Biology at Columbia University, discovered that the same genes responsible for forming synapses in the brain also contribute to the development of neural connections in the gut. He suggests that if these genes are disrupted in conditions like autism, it may help explain why many children on the spectrum experience gastrointestinal motor issues alongside elevated levels of serotonin produced in the gut. Further work in neurogastroenterology will likely offer some new insight into the workings of the second brain.</p>
+
+      <h2>Conclusion</h2>
+
+      <p>The findings on the Enteric Nervous System are groundbreaking. Only time will tell the massive impact of future discoveries as well. Its strong connection with the brain means that it is significant to the neurological chemical processes in human physiology. So next time you trust your gut, know that it might actually be doing some real thinking.</p>
+
+      <section class="references">
+        <h2>References</h2>
+        <ul>
+          <li>Harvard Health Publishing. The Gut‑Brain Connection. Harvard Medical School, 2021.</li>
+          <li>Physio‑Pedia. “Enteric Nervous System (ENS).”</li>
+          <li>Wikipedia contributors. “Enteric nervous system.”</li>
+          <li>Queensland Brain Institute, The University of Queensland.</li>
+          <li>Hadhazy, Adam. “Think Twice: How the Gut’s 'Second Brain' Influences Mood and Well‑Being.” Scientific American, 2010.</li>
+        </ul>
+      </section>
+
+    </section>
+  </article>
+
+</body>
+</html>
