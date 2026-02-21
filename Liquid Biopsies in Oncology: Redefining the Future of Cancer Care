@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liquid Biopsies in Oncology: Redefining the Future of Cancer Care — Revitalised Medicine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #000;
+            background: #fff;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2rem;
+            color: #8B0000;
+        }
+        h2 {
+            color: #8B0000;
+            margin-top: 1.5em;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        .author-date {
+            font-size: 0.9rem;
+            color: #444;
+            margin-bottom: 1em;
+        }
+        .reference {
+            font-size: 0.9rem;
+            color: #444;
+            margin-top: 2em;
+        }
+        a {
+            color: #8B0000;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Liquid Biopsies in Oncology: Redefining the Future of Cancer Care</h1>
+        <div class="author-date">Makayla Anderson · Oncology Editor in Chief at Revitalised Medicine · 24 June 2025</div>
+
+        <p>In the constantly advancing field of oncology, liquid biopsies have emerged as a groundbreaking innovation—poised to reshape how we detect, monitor, and treat cancer. Unlike traditional tissue biopsies, which often require invasive surgery to remove a piece of the tumour, liquid biopsies utilise a simple blood draw to gather crucial genetic information from cancer cells circulating in the body. This revolutionary method offers a minimally invasive, repeatable, and insightful window into the biology of cancer—paving the way for a new era of precision medicine. :contentReference[oaicite:1]{index=1}</p>
+
+        <h2>What Exactly Is a Liquid Biopsy?</h2>
+        <p>A liquid biopsy is a diagnostic test that examines biomarkers—molecular traces of cancer—floating in bodily fluids such as blood, urine, or saliva. These biomarkers include circulating tumour DNA (ctDNA), circulating tumour cells (CTCs), and exosomes. Among these, ctDNA is the most commonly analysed component. By studying ctDNA, scientists can learn about specific mutations or alterations present in the tumour—without ever needing to touch the tumour itself. This allows doctors to create a “genetic fingerprint” of the cancer and use that information for diagnosis, treatment decisions, and monitoring. :contentReference[oaicite:2]{index=2}</p>
+
+        <h2>Clinical Applications in Oncology</h2>
+        <p><strong>Early Cancer Detection:</strong> One of the most promising uses of liquid biopsy is identifying cancer at its earliest stages—sometimes even before symptoms appear. This is where multi‑cancer early detection (MCED) tests come in. These tests aim to screen for multiple cancer types using a single blood sample and could eventually complement or even replace some routine screenings in the future. :contentReference[oaicite:3]{index=3}</p>
+
+        <p><strong>Personalized Treatment Planning:</strong> Every cancer is genetically unique, and treatments that work for one person may not work for another. Liquid biopsies enable oncologists to detect specific mutations—like the EGFR mutation in lung cancer—and choose treatments that directly target those mutations. This precision oncology approach tailors therapy to the individual patient’s tumour profile. :contentReference[oaicite:4]{index=4}</p>
+
+        <p><strong>Monitoring Treatment Effectiveness:</strong> Throughout the course of treatment, liquid biopsies can be repeated to monitor how a patient’s cancer is responding. If the levels of ctDNA in the blood decrease, it’s often a sign that the tumour is shrinking. If ctDNA levels rise again, it could signal resistance to treatment or early signs of relapse, allowing for timely intervention. :contentReference[oaicite:5]{index=5}</p>
+
+        <p><strong>Detecting Minimal Residual Disease (MRD):</strong> Even after successful treatment, tiny amounts of cancer may linger in the body—too small to be seen on scans. This is known as minimal residual disease. Liquid biopsies can detect these traces and alert doctors before a full relapse occurs. Catching MRD early may help doctors step in with additional treatment and prevent the cancer from returning in a more aggressive form. :contentReference[oaicite:6]{index=6}</p>
+
+        <h2>Advantages and Challenges</h2>
+        <p>Liquid biopsies are minimally invasive, repeatable, and can provide comprehensive insight into tumour heterogeneity—that is, genetic differences across cancer cells within the same patient. However, challenges remain: sensitivity limitations, especially in very early cancer when ctDNA is scarce, clinical interpretation complexities, and a lack of standardized testing protocols. :contentReference[oaicite:7]{index=7}</p>
+
+        <h2>The Path Forward: Liquid Biopsies in the Clinic</h2>
+        <p>Some liquid biopsy tests have already received regulatory approval, such as Guardant360 CDx and FoundationOne Liquid CDx, which are used to guide treatment for certain advanced cancers. As research progresses and testing becomes more affordable, the use of liquid biopsies is expected to expand—potentially becoming a routine part of cancer care. :contentReference[oaicite:8]{index=8}</p>
+
+        <h2>Conclusion</h2>
+        <p>Liquid biopsies represent a paradigm shift in cancer care—from reactive to proactive, from invasive to minimally invasive, and from one‑size‑fits‑all to personalised treatment. They hold the promise of catching cancer earlier, matching patients with the right therapies, and monitoring for recurrence—all through the power of a simple blood test. :contentReference[oaicite:9]{index=9}</p>
+
+        <div class="reference">
+            <h2>References</h2>
+            <p>1. Wan, J.C.M., Massie, C., Garcia‑Corbacho, J. et al. *Liquid biopsies come of age: towards implementation of circulating tumour DNA*. Nature Reviews Cancer, 17, 223–238 (2017). :contentReference[oaicite:10]{index=10}</p>
+            <p>2. Alix‑Panabières, C., & Pantel, K. *Clinical Applications of Circulating Tumor Cells and Circulating Tumor DNA as Liquid Biopsy*. Cancer Discovery, 6(5), 479–491 (2016). :contentReference[oaicite:11]{index=11}</p>
+            <p>3. Rolfo, C., Mack, P.C., Scagliotti, G.V., et al. *Liquid Biopsy for Advanced NSCLC*. Journal of Thoracic Oncology, 16(10), 1647–1662 (2021). :contentReference[oaicite:12]{index=12}</p>
+            <p>4. Merker, J.D., Oxnard, G.R., Compton, C., et al. *Circulating Tumor DNA Analysis in Patients With Cancer: ASCO and CAP Joint Review*. Journal of Clinical Oncology, 36(16), 1631–1641 (2018). :contentReference[oaicite:13]{index=13}</p>
+        </div>
+
+    </div>
+</body>
+</html>
