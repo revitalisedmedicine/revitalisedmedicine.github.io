@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF‑8">
+  <meta name="viewport" content="width=device‑width, initial‑scale=1.0">
+  <title>Pathological Features of Liver Diseases</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+      color: #000;
+      background: #fff;
+    }
+    h1, h2, h3 {
+      color: #8B0000;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    a {
+      color: #8B0000;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Pathological Features of Liver Diseases</h1>
+  <p><em>Ifza Zia · Pathology Staff Writer at Revitalised Medicine</em></p>
+
+  <p>Liver diseases involve a wide spectrum of pathological changes affecting hepatocytes, bile ducts, blood vessels, and the extracellular matrix. These changes often reflect the underlying causes and help differentiate specific liver conditions on histopathological examination.</p>
+
+  <h2>Steatosis and Fat Accumulation</h2>
+  <p>Steatosis, or fat accumulation within liver cells (hepatocytes), is a common early pathological feature in both alcoholic liver disease (ALD) and non‑alcoholic fatty liver disease (NAFLD) or metabolic dysfunction‑associated steatotic liver disease (MASLD). This appears as macrovesicular fat droplets that displace the nucleus in affected hepatocytes. In advanced cases, this may also be accompanied by inflammation and fibrosis. :contentReference[oaicite:0]{index=0}</p>
+
+  <h2>Hepatitis and Inflammation</h2>
+  <p>Inflammation of the liver can be caused by viruses, toxins, and autoimmune processes. Histologically, this manifests as infiltration of inflammatory cells (e.g., lymphocytes and plasma cells) within portal tracts and lobules, sometimes with hepatocyte ballooning and necrosis. :contentReference[oaicite:1]{index=1}</p>
+
+  <h2>Fibrosis and Cirrhosis</h2>
+  <p>Progressive liver damage often leads to fibrosis — the excessive deposition of connective tissue — which disrupts normal hepatic architecture. When fibrosis progresses extensively, it forms regenerative nodules separated by scar tissue; this advanced stage is known as cirrhosis. Cirrhosis can result from chronic viral hepatitis, prolonged alcohol abuse, metabolic liver disease, and autoimmune conditions. :contentReference[oaicite:2]{index=2}</p>
+
+  <h2>Cholestatic and Biliary Changes</h2>
+  <p>Disorders like primary biliary cholangitis (PBC) and primary sclerosing cholangitis (PSC) predominantly affect the bile ducts, leading to inflammation, destruction of small bile ducts, and eventually fibrosis. These changes are often evident around portal tracts and can progress to secondary biliary cirrhosis. :contentReference[oaicite:3]{index=3}</p>
+
+  <h2>Vascular and Circulatory Disorders</h2>
+  <p>Conditions such as portal hypertension, congestive hepatopathy, and vascular occlusion show distinct pathological features, including sinusoidal dilation, fibrosis around vessels, and changes in portal tract architecture. These contribute to impaired blood flow and further hepatic damage. :contentReference[oaicite:4]{index=4}</p>
+
+  <h2>Neoplastic and Cystic Lesions</h2>
+  <p>Benign and malignant tumors can arise in the liver, including hepatocellular carcinoma (HCC) and benign vascular lesions like hemangiomas. Cystic lesions such as polycystic liver disease may also be seen and can expand or cause mass effect depending on severity. :contentReference[oaicite:5]{index=5}</p>
+
+  <p>Overall, histopathological assessment remains a cornerstone of diagnosing and understanding liver diseases. Correlating microscopic features with clinical findings and laboratory data allows pathologists to identify specific disease processes and guide management strategies effectively.</p>
+
+</body>
+</html>
