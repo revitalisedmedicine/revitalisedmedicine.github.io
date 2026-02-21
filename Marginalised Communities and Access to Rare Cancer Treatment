@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Marginalised Communities and Access to Rare Cancer Treatment</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Marginalised Communities and Access to Rare Cancer Treatment</h1>
+    <div class="meta">Moon Hoang · Oncology Editor in Chief at Revitalised Medicine · 15 December 2025</div>
+  </header>
+
+  <!-- Replace with actual article image -->
+  <img src="marginalised-rare-cancer.jpg" alt="Graphic showing disparities in cancer treatment access">
+
+  <p>A significant public health issue affecting patients with rare cancers is the disparities they experience in accessing treatment. These inequities include financial toxicity — where patients can’t afford care — limited clinical trial availability for marginalised groups, and resource shortages that make reaching advanced treatment centres difficult. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/marginalised-communities-and-access-to-rare-cancer-treatment.html))</p>
+
+  <p>Treating rare malignancies continues to be challenging. With limited research, prevalence data, and specialised therapeutic options, progress in effective therapies lags behind more common cancers. Even when new treatments become available, underserved communities often face barriers such as lack of insurance, geographic remoteness, and systemic bias that delay or deny access. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/marginalised-communities-and-access-to-rare-cancer-treatment.html))</p>
+
+  <p>Health insurance coverage is a major determinant of treatment access and outcomes. Patients without adequate insurance tend to be diagnosed at later cancer stages and have worse survival rates compared with those who are insured. Studies show that uninsured populations receive far lower rates of cancer screening and follow‑up, exacerbating disparities. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/marginalised-communities-and-access-to-rare-cancer-treatment.html))</p>
+
+  <p>Geographic barriers also contribute. Patients in rural or underserved areas must travel long distances to reach oncology centres offering specialised care. Limited local resources mean advanced equipment and expert clinicians are concentrated in urban hubs, whereas peripheral communities have few specialists and less access to cutting‑edge treatments. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/marginalised-communities-and-access-to-rare-cancer-treatment.html))</p>
+
+  <p>In addition to these barriers, implicit bias and structural inequities in healthcare systems mean that marginalised populations — including racial and ethnic minorities, people with disabilities, and gender minorities — are often excluded from clinical trials. This not only limits treatment options for affected individuals but also slows progress in understanding rare cancers in diverse populations. (Studies show clinical trial enrolment for rare cancer drugs remains dominated by majority groups, leaving minority groups underrepresented and under‑served.) :contentReference[oaicite:0]{index=0}</p>
+
+  <p>Overall, acknowledging and addressing these barriers is as crucial as developing new treatments. Efforts to expand insurance coverage, improve rural healthcare infrastructure, and reduce systemic bias must be part of the plan to ensure equitable access to rare cancer therapies. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/marginalised-communities-and-access-to-rare-cancer-treatment.html))</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Moon Hoang. <em>Marginalised Communities and Access to Rare Cancer Treatment</em>. Revitalised Medicine, 15 December 2025. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/marginalised-communities-and-access-to-rare-cancer-treatment.html))</li>
+      <li>Equitable access to subsidised treatment and clinical trials for rare cancers. Rare Cancers Australia. ([rare cancers info](https://www.rarecancers.org.au/the-reality-of-rare/what-we-want/equitable-access-to-subsidised-treatment-and-clinical-trials/)) :contentReference[oaicite:1]{index=1}</li>
+      <li>Disparities in cancer clinical trials availability and participation for underserved communities. University of Michigan research. ([search3](https://www.uofmhealth.org/health-lab/widening-inequality-seen-where-cancer-clinical-trials-are-available)) :contentReference[oaicite:2]{index=2}</li>
+      <li>Inequities in precision oncology eligibility limiting minority access to targeted therapy. Reuters. ([health rounds](https://www.reuters.com/business/healthcare-pharmaceuticals/health-rounds-eligibility-criteria-limits-minority-patient-access-precision-2025-01-10/)) :contentReference[oaicite:3]{index=3}</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
