@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cardiac Amyloidosis: An Uncommon Disorder of the Heart Compared to Prevalent Cardiomyopathies</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Cardiac Amyloidosis: An Uncommon Disorder of the Heart Compared to Prevalent Cardiomyopathies</h1>
+    <div class="meta">Ifza Zia · Cardiology Staff Writer at Revitalised Medicine · 19 September 2025</div>
+  </header>
+
+  <!-- Replace this with the actual image you download -->
+  <img src="cardiac-amyloidosis.jpg" alt="Illustration relevant to cardiac amyloidosis">
+
+  <p>Cardiac amyloidosis is a rare but increasingly recognised heart condition caused by the buildup of amyloid fibrils — abnormal protein deposits — within the heart muscle. These amyloid deposits thicken and stiffen the heart walls, reducing their ability to relax and fill properly with blood and leading to a form of restrictive cardiomyopathy. :contentReference[oaicite:0]{index=0}</p>
+
+  <p>This differs fundamentally from more prevalent cardiomyopathies such as dilated and hypertrophic cardiomyopathy. In dilated cardiomyopathy, the heart’s chambers enlarge and thin, often due to genetic predispositions or ischemic damage. In hypertrophic cardiomyopathy, the muscle wall thickens due to genetic mutations in contractile proteins. By contrast in cardiac amyloidosis, the heart walls appear thickened not because of muscle growth but due to infiltrative amyloid protein deposits. :contentReference[oaicite:1]{index=1}</p>
+
+  <h2>How Cardiac Amyloidosis Affects the Heart</h2>
+  <p>Amyloid infiltration makes the myocardium stiff and unable to relax, impairing the heart’s ability to fill with blood. This often results in symptoms such as shortness of breath, fatigue, and swelling in the legs — signs commonly seen in restrictive cardiomyopathy. Echocardiography, cardiac MRI, and nuclear techniques like bone scintigraphy play important roles in differentiating cardiac amyloidosis from other cardiomyopathies because standard ECG alone cannot characterise tissue infiltration. :contentReference[oaicite:2]{index=2}</p>
+
+  <p>Cardiac amyloidosis is caused mainly by two types of misfolded proteins: light‑chain amyloidosis (AL‑CA), resulting from misfolded immunoglobulin light chains often associated with blood disorders, and transthyretin amyloidosis (ATTR‑CA), which includes wild‑type and hereditary forms. ATTR‑CA becomes more common with age and has a male predominance. :contentReference[oaicite:3]{index=3}</p>
+
+  <h2>Differences from Prevalent Cardiomyopathies</h2>
+  <p>Compared with hypertrophic or dilated cardiomyopathies, cardiac amyloidosis features an infiltrative mechanism rather than true muscle thickening or chamber dilation. This means traditional therapies for hypertrophic or dilated cardiomyopathies — like beta‑blockers or anticoagulants — are often not suitable and may worsen symptoms. Instead, treatment focuses on addressing the underlying cause: tafamidis for ATTR amyloidosis and chemotherapy or plasma cell‑directed therapy for AL amyloidosis. :contentReference[oaicite:4]{index=4}</p>
+
+  <h2>Diagnosis and Importance of Early Detection</h2>
+  <p>Prompt and accurate diagnosis is crucial, as early intervention can slow disease progression and improve quality of life. Modern techniques such as bone scintigraphy, cardiac MRI, and specialized echocardiographic patterns help distinguish cardiac amyloidosis from other cardiomyopathies. Advances in non‑biopsy diagnostic criteria have further aided clinicians in identifying amyloid infiltration. :contentReference[oaicite:5]{index=5}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Revitalised Medicine: Cardiac Amyloidosis: An Uncommon Disorder of the Heart Compared to Prevalent Cardiomyopathies. :contentReference[oaicite:6]{index=6}</li>
+      <li>Shams & Ahmed. Cardiac Amyloidosis. StatPearls. :contentReference[oaicite:7]{index=7}</li>
+      <li>American College of Cardiology Feature: Cardiac Amyloidosis and How to Stop Missing the Diagnosis. :contentReference[oaicite:8]{index=8}</li>
+    </ul>
+  </section>
+</article>
+
+</body>
+</html>
