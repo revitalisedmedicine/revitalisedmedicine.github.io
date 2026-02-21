@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF‑8"/>
+  <meta name="viewport" content="width=device‑width, initial‑scale=1.0"/>
+  <title>Artificial Intelligence in Early Detection of Heart Disease: From Diagnosis to Treatment</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Artificial Intelligence in Early Detection of Heart Disease: From Diagnosis to Treatment</h1>
+    <div class="meta">Cardiology Staff Writer · Revitalised Medicine · 2025</div>
+  </header>
+
+  <!-- Replace this with the actual image you downloaded -->
+  <img src="ai-early-detection-heart-disease.jpg" alt="AI processing heart health data from ECGs and imaging">
+
+  <p>Artificial intelligence (AI) is transforming how clinicians detect, diagnose, and manage **heart disease** earlier and more accurately. AI systems analyze large and complex medical data — such as ECGs, imaging scans, and electronic health records — to find patterns that may indicate disease before traditional techniques can. Such early detection can lead to more timely treatment and better outcomes for patients. :contentReference[oaicite:0]{index=0}</p>
+
+  <h2>Early Detection & Diagnosis</h2>
+  <p>AI‑powered ECG interpretation algorithms can detect subtle abnormalities and structural problems earlier than human interpretation alone. These tools use machine learning to identify patterns predictive of conditions such as coronary artery disease or heart failure. :contentReference[oaicite:1]{index=1}</p>
+
+  <p>Wearable devices and smartphone applications that integrate AI models also help screen heart rhythm irregularities like atrial fibrillation outside clinical settings. By continuously monitoring data collected from users, AI tools can spot risks earlier and prompt patients to seek medical evaluation sooner. :contentReference[oaicite:2]{index=2}</p>
+
+  <h2>Predicting Risk & Personalized Insights</h2>
+  <p>AI models trained on large datasets can estimate a patient’s cardiovascular risk based on clinical and lifestyle data. These predictive analytics systems go beyond simple risk calculators by analyzing complex interactions between variables, improving the precision of risk stratification. :contentReference[oaicite:3]{index=3}</p>
+
+  <p>For example, AI analysis of electronic health records combined with imaging findings may identify individuals at heightened risk of heart attack or structural heart disease months or even years before symptoms develop. :contentReference[oaicite:4]{index=4}</p>
+
+  <h2>From Diagnosis to Treatment Planning</h2>
+  <p>Beyond detection, AI assists clinicians in treatment planning. Algorithms that evaluate imaging modalities (like CT scans, echocardiograms, and cardiac MRIs) enhance diagnostic accuracy and help guide therapeutic decisions. These tools reduce diagnostic variability and support personalized treatment strategies tailored to individual patient physiology. :contentReference[oaicite:5]{index=5}</p>
+
+  <p>AI‑driven decision support systems also help predict how different patients might respond to specific treatments, optimizing medication choices and procedural planning for interventions such as cardiac catheterization or surgery. :contentReference[oaicite:6]{index=6}</p>
+
+  <h2>Continuous Monitoring & Long‑Term Care</h2>
+  <p>Wearables and remote monitoring platforms, through continuous data collection and AI interpretation, enable real‑time feedback on a patient’s cardiovascular status. This continuous insight can prompt early intervention, reduce hospital readmissions, and personalize follow‑up care plans. :contentReference[oaicite:7]{index=7}</p>
+
+  <h2>Challenges & Ethical Considerations</h2>
+  <p>Despite its promise, AI in cardiology faces challenges including data bias, the need for large and diverse training datasets, and integration into clinical workflows. Ethical considerations such as patient privacy, transparency of AI decision‑making, and regulatory oversight are also critical for safe and equitable adoption. :contentReference[oaicite:8]{index=8}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Shuja MH, et al. Harnessing Artificial Intelligence in Cardiology: Advancements in Diagnosis and Treatment. Heart Views, 2024. :contentReference[oaicite:9]{index=9}</li>
+      <li>Comprehensive Review of AI in Cardiovascular Disease Detection and Management. Bioengineering 2024. :contentReference[oaicite:10]{index=10}</li>
+      <li>AI in Detecting Hidden Heart Conditions and Arrhythmias Using ECGs. Singapore Medical Journal 2025. :contentReference[oaicite:11]{index=11}</li>
+      <li>AI Improving Early Detection and Risk Prediction in Cardiovascular Care. SEEJPH 2025. :contentReference[oaicite:12]{index=12}</li>
+      <li>AI Enhancing Cardiovascular Treatment Planning & Monitoring. International Journal of Surgery 2025. :contentReference[oaicite:13]{index=13}</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
