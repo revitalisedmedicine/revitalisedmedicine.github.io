@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recombinant DNA Technology in the Treatment of Acute Lymphoblastic Leukemia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #000;
+      background-color: #fff;
+      padding: 0 1rem;
+    }
+    h1, h2, h3 {
+      color: #8B0000;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      margin: 1rem 0;
+      display: block;
+    }
+    a {
+      color: #8B0000;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Recombinant DNA Technology in the Treatment of Acute Lymphoblastic Leukemia</h1>
+  <p><em>Moon Hoang · Oncology Editor in Chief at Revitalised Medicine</em></p>
+
+  <p>DNA mutations cause cancer, but with engineered DNA, modern therapies have become highly targeted. Recombinant DNA technology is playing a pivotal role in acute lymphoblastic leukemia (ALL), enabling precise interventions at the molecular level.</p>
+
+  <h2>Therapeutic Proteins via Recombinant DNA</h2>
+  <p>Recombinant DNA technology allows the production of specific proteins that target leukemia cells while minimizing harm to healthy cells. Key examples include:</p>
+
+  <h3>Recombinant Erwinia L-Asparaginase</h3>
+  <p>Depletes asparagine, which is essential for leukemia cells’ survival, inducing apoptosis in malignant cells.</p>
+
+  <h3>Recombinant Human Interleukin-2 (rhIL-2)</h3>
+  <p>Boosts the immune system, enhancing T-cell proliferation and cytotoxic activity against leukemia cells.</p>
+
+  <h3>Blinatumomab</h3>
+  <p>A bispecific T-cell engager (BiTE) that directs the patient's T-cells to attack leukemia cells expressing CD19, offering targeted therapy with reduced systemic toxicity.</p>
+
+  <p>These recombinant therapies represent a major shift in oncology, moving away from non-specific chemotherapies towards precision medicine, improving outcomes and reducing adverse effects.</p>
+
+</body>
+</html>
