@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Journals</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .description {
+      font-size: 1rem;
+      color: #555;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 1.5rem;
+    }
+    li {
+      margin-bottom: 0.6rem;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Journals</h1>
+  </header>
+
+  <p class="description">Below are links to some of the major neurology journals referenced on Revitalised Medicine’s Journals page:</p>
+
+  <ul>
+    <li><a href="https://www.mdpi.com" target="_blank">MDPI – Open Access Scientific Journals</a></li>
+    <li><a href="https://www.genesispub.org" target="_blank">Genesis Publishing – Scientific and Clinical Journals</a></li>
+    <li><a href="https://www.neurology.org" target="_blank">Neurology (Official Journal of the American Academy of Neurology)</a></li>
+    <li><a href="https://link.springer.com" target="_blank">Springer – Research and Review Journals</a></li>
+    <li><a href="https://bmcneurol.biomedcentral.com" target="_blank">BMC Neurology – Open Access Journal</a></li>
+  </ul>
+
+  <p class="description">These links provide access to well‑established journals or journal platforms in the field of neuroscience and clinical medicine. Each site hosts collections of peer‑reviewed articles you can explore for research and clinical updates. :contentReference[oaicite:1]{index=1}</p>
+
+  <section class="references">
+    <h2>Source</h2>
+    <ul>
+      <li><a href="https://revitalisedmedicine.weebly.com/journals.html">Original Journals Page – Revitalised Medicine</a> :contentReference[oaicite:2]{index=2}</li>
+    </ul>
+  </section>
+</article>
+
+</body>
+</html>
