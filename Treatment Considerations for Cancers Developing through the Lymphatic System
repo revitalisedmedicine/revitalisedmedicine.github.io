@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treatment Considerations for Cancers Developing through the Lymphatic System — Revitalised Medicine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #000;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2rem;
+            color: #8B0000;
+        }
+        h2, h3 {
+            color: #8B0000;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        .author-date {
+            font-size: 0.9rem;
+            color: #444;
+            margin-bottom: 1em;
+        }
+        .image-section img {
+            max-width: 100%;
+            height: auto;
+        }
+        .reference {
+            font-size: 0.9rem;
+            color: #444;
+        }
+        a {
+            color: #8B0000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Treatment Considerations for Cancers Developing through the Lymphatic System</h1>
+        <div class="author-date">Moon Hoang · Oncology Editor in Chief at Revitalised Medicine · 26 November 2025</div>
+
+        <div class="image-section">
+            <!-- If your page had a featured image, you can insert it here -->
+            <!-- Example: <img src="YOUR_IMAGE_URL" alt="Lymphatic System and Cancer"> -->
+        </div>
+
+        <p>The lymphatic system significantly contributes to the body’s defense mechanism, yet cancer exploits this extensive route to metastasize. With medical advancements, metastatic lymphatic system interventions vary, with each having their own benefits and drawbacks (Devisetti et al., 2025).</p>
+
+        <h2>The Lymphatic System and Cancer Progression</h2>
+
+        <p>Lymphatic vessels, lymph nodes (LNs), and associated lymphoid tissues are lymphatic network components (Devisetti et al., 2025). Collectively, these structures contribute to tissue fluid maintenance and lymph (a fluid containing immune cells, cytokines and signaling molecules necessary for immune response activation and pathogen filtration) immunosurveillance (Devisetti et al., 2025). Cancer often exploits lymphatic channels to metastasize, invading nearby LNs and distant organs (Devisetti et al., 2025).</p>
+
+        <p>An invaded lymphatic system is usually an indication of advanced-stage cancer, especially seen in breast cancer, melanoma and gastrointestinal cancers (Devisetti et al., 2025).</p>
+
+        <p>Cancer cells begin invading the lymphatic system at the subcapsular sinus, where the lack of blood vessels and oxygen allows more aggressive and metastatic cells to develop (Padera et al., 2016). With time, these abnormal cells spread to lymph nodes, requiring oxygen and blood vessels for growth and further expansion (Padera et al., 2016). One metastatic mechanism begins with lymphangiogenesis (formation of new lymphatic vessels), facilitated by VEGF‑C and VEGF‑D growth factor overproduction.</p>
+
+        <p>When these growth factors bind to VEGFR‑3 (receptors expressed on lymphatic endothelial cells), lymphatic vessel growth is promoted, and that provides favorable conditions for metastasis (Devisetti et al., 2025). Additionally, luminal fluid movement and transmural flow also increase tumor cell penetration by influencing the lymphatic endothelium’s adhesive properties (Devisetti et al., 2025).</p>
+
+        <p>In addition to receptors and growth factors influencing fluid dynamics that impact cancer in the lymphatic system, CCL21 (a chemokine released by lymphatic endothelium cells) also affects such disorders by stimulating cancer cells to express their corresponding receptor, CCR7 (Devisetti et al., 2025). Upon their interaction, these cells are directed towards lymphatic vessels (Devisetti et al., 2025). Unlike typical metastasis, treating LN metastasis requires a combination of various treatment regimens.</p>
+
+        <h2>Response to Cancer Treatment</h2>
+
+        <p>Nanotechnological approaches are treatment breakthroughs that use ultrasonics to guide drug delivery to the target site (Wu et al., 2024). Ultrasonics employ sound waves with a frequency over 20 kHz that serve as the energy input to enable drug delivery (Li et al., 2025; Liu et al., 2024). Nanoparticles can be made of lipids, polymers and inorganic substances (Rama et al., 2024).</p>
+
+        <p>Liposomes, for example, are spherical vesicles that store chemotherapeutic drugs and prevent their degradation (Wu et al., 2024). Once injected, liposomes circulate in the bloodstream and accumulate in infected lymph nodes (Wu et al., 2024). These nanoparticles can be engineered to be sensitive to aspects of the tumor microenvironment, such as pH or temperature, and can be triggered to release drugs precisely at the site (Wu et al., 2024).</p>
+
+        <p>Nanoparticles are especially handy in transporting insoluble, unstable and cytotoxic chemicals to the lymphatic system (Cohen & Forrest, 2011). Yet, the LN microenvironment has many biological and physical barriers impeding nanoparticle penetration, which requires that nanoparticles are flexible enough to target diverse LN metastases (Wu et al., 2024). Toxicity from inorganic materials‑derived nanoparticles can accumulate in off‑target organs and cause side effects (Wu et al., 2024).</p>
+
+        <p>With these drawbacks, physical intervention in LN metastasis may stand as a safer alternative.</p>
+
+        <p>Patients may opt for surgical treatment to eliminate tumor lesions and prevent relapse (Ji et al., 2023). Lymph node dissection (lymphadenectomy) is commonly used to treat breast cancer, melanoma, and thyroid cancer (Lymphadenectomy 2022). The two main types of lymphadenectomy are regional (removal of nearby LNs to the tumor) and radical (complete LN removal in a region) (Lymphadenectomy 2022).</p>
+
+        <p>While lymphadenectomy improves therapy, professionals must refrain from an overexcessive number of LNs as there may be detrimental complications, such as impaired immune responses, due to LNs’ associated role in immune action coordination (Ji et al., 2023). Moreover, an associated post‑operation side effect is lymphedema development, characterized by excess lymphatic fluid buildup in tissues (Lymphadenectomy 2022).</p>
+
+        <p>Patients treated with lymphadenectomy may develop more scar tissue, leading to fibrosis and lymphatic vessel and muscle obstruction (Lymphadenectomy 2022).</p>
+
+        <p>Although the lymphatic system’s significant role in the body’s frontline defense and tissue fluid regulation is undeniable, its vast network presents a path for cancer to spread. Through lymphangiogenesis, fluid dynamics, and chemokine release, cancer cells can proliferate. Since nodal metastasis is polyclonal, a multi‑therapeutic approach that includes nanoparticles and lymphadenectomy, which are pivotal in reducing complications and enhancing precision, is needed.</p>
+
+        <p>Nevertheless, challenges such as LN barriers, variable microenvironment, and impaired immune response persist. Altogether, this information serves as a reminder that in oncological treatment, the lymphatic system’s health is as crucial as improving methods.</p>
+
+        <div class="reference">
+            <h3>References</h3>
+            <p>Cleveland Clinic medical. (2022, August 15). Lymphadenectomy. Cleveland Clinic. https://my.clevelandclinic.org/health/treatments/24045-lymphadenectomy</p>
+            <p>Cohen, M. S., & Forrest, M. L. (2011). Lymphatic drug delivery: therapy, imaging and nanotechnology. Advanced drug delivery reviews, 63(10‑11), 865–866. https://doi.org/10.1016/j.addr.2011.05.013</p>
+            <p>Devisetti, N., Shah, P., & Liu, F. C. (2025). From Mechanisms to Treatment: A Comprehensive View of Lymphatic Metastasis in Cancer. Lymphatics, 3(2), 12. https://doi.org/10.3390/lymphatics3020012</p>
+            <p>Ji, H., Hu, C., Yang, X., et al. (2023). Lymph node metastasis in cancer progression: Molecular mechanisms, clinical significance and therapeutic interventions. Signal Transduction and Targeted Therapy, 8(1), 367</p>
+            <p>Li, X., Liu, Y., Wu, X., Huang, R., Chen, S., & Yuan, K. (2025). Ultrasound meets nanomedicine: towards disease treatment and medical imaging. Microchimica Acta, 192(4), 215</p>
+            <p>Liu, K., Jing, B., Kang, J., Han, L., & Chang, J. (2024). Ultrasound‑Enabled nanomedicine for tumor theranostics. Engineering, 46, 101‑129</p>
+            <p>Padera, T. P., Meijer, E. F., & Munn, L. L. (2016). The Lymphatic System in Disease Processes and Cancer Progression. Annual review of biomedical engineering, 18, 125‑158</p>
+            <p>Rama, A., Govindan, I., Kailas, A. A., Annadurai, T., Lewis, S. A., & Naha, A. (2024). Drug delivery to the lymphatic system: The road less travelled. Journal of Applied Pharmaceutical Science, 14(6), 1‑10</p>
+            <p>Wu, Y., Shang, J., Zhang, X., & Li, N. (2024). Advances in molecular imaging and targeted therapeutics for lymph node metastasis in cancer: a comprehensive review. Journal of nanobiotechnology, 22(1), 783</p>
+        </div>
+
+    </div>
+</body>
+</html>
