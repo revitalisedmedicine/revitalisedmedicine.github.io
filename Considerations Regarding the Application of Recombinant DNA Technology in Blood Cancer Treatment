@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Considerations Regarding the Application of Recombinant DNA Technology in Blood Cancer Treatment</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #000;
+      line-height: 1.7;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: #fff;
+    }
+    h1, h2 {
+      font-weight: bold;
+      margin-top: 1.5em;
+    }
+    p, li {
+      margin: 1em 0;
+    }
+    ul, ol {
+      margin: 1em 0 1em 2em;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #333;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
+    }
+    a { color: crimson; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .image { margin: 20px 0; }
+  </style>
+</head>
+<body>
+
+  <h1>Considerations Regarding the Application of Recombinant DNA Technology in Blood Cancer Treatment</h1>
+  <p><em>Moon Hoang · Oncology Editor in Chief at Revitalised Medicine<br>18 September 2025</em></p>
+
+  <p><strong>Recombinant DNA (rDNA) technology has led to significant advancements and increased efficiency in blood cancer research.</strong> Using this technology, scientists can combine genetic material from various organisms and introduce it into a host organism to produce proteins of interest.</p>
+
+  <p>Although utilizing this versatile technology holds significant promise, possibly broadening medical investigators’ understanding and enhancing treatment outcomes in blood cancer patients, it involves ethical and social issues that must be addressed (Bailey, 2018).</p>
+
+  <p>One health concern towards rDNA technology application in blood cancer therapy is ethidium bromide usage (EtBr). EtBr is a widely‑used fluorescent chemical in gel electrophoresis that visualises and detects separated genetic material. To enable DNA visualisation, EtBr will insert itself between the base pairs of DNA.</p>
+
+  <p>This interferes with DNA’s helix structure, leading to errors when DNA replicates and transcribes, and introduces frame‑shift mutations (where the genetic code is misread due to insertion and deletion of a base pair). Due to this, EtBr is classified as a mutagenic (causing genetic change) and carcinogenic (causing cancer) agent. Therefore, as scientists are exposed to this chemical while working, it could contribute to increasing cancer risks.</p>
+
+  <p>SYBR Green and GelRed are safer alternatives that perform relatively well in DNA visualisation with less toxicity (What Is Ethidium Bromide and Why Is It Dangerous?, 2025).</p>
+
+  <p>Apart from EtBr, immunotherapy, an application of rDNA technology harnessing the immune system to fight cancer, has shown great progress in cancer treatment. However, one of its common and fatal side effects — cytokine release syndrome (CRS) — limits its potential (Ojemolon et al., 2022). An excessive release of cytokines, leading to symptoms such as high fever (≥38 degrees Celsius), severe vasodilation (widening of blood vessels), and cardiac dysfunction characterise CRS (Ojemolon et al., 2022).</p>
+
+  <p>CRS may develop following rDNA technology‑derived treatment, which includes monoclonal antibodies (laboratory‑made proteins which stimulate immune system activity), CAR T‑cell therapy, or hematopoietic cell transplantation (Ojemolon et al., 2022). This disorder prevents blood cancer patients from living a healthy life post‑treatment, as they will not only experience physical decline from prolonged hospitalization, but also psychological effects, such as emotional distress from intensive cancer treatments.</p>
+
+  <p>Similar to immunotherapy, other cancer treatments come with adverse effects of which patients are not always informed.</p>
+
+  <p>In February 2025, a case was reported in which a patient with relapsed multiple myeloma (cancer of plasma cells) developed T‑cell lymphoma nine months after receiving CAR T‑cell therapy, an antigen‑specific treatment that involves engineering T cells with chimeric antigen receptors that recognize and destroy cancer cells by binding to their antigens (The Lancet Haematology, 2025; CAR T‑cell Therapy and Its Side Effects 2025). :contentReference[oaicite:0]{index=0}</p>
+
+  <p>Patient bone marrow and blood cell sequencing indicated previous mutations in blood cells and additional mutations caused by CAR T‑cell therapy (The Lancet Haematology, 2025). Given that much remains unknown about this therapy, it is essential for healthcare providers to monitor patients and continuously update long‑term data on its safety profile and blood cancer treatment efficiency.</p>
+
+  <p>Access to these approved therapies remains restricted in low‑income countries and it is mainly available in wealthier nations (The Lancet Haematology, 2025). Even with its approval for practice in these countries, its highly personalised nature and the high cost of treatment — estimated cost for CAR T‑cell therapy ranges between $500,000 and $1,000,000 — pose serious challenges for patients and raise concern about health equity (Robinson & Martin, 2025; The Lancet Haematology, 2025). :contentReference[oaicite:1]{index=1}</p>
+
+  <p>Other ethical concerns regarding CAR‑T‑cell therapy involve its potential side effects. In 2024, the U.S Food and Drug Administration (FDA), after witnessing patients develop secondary malignancy, mandated updates on this treatment's label (Santhosh & Kuber, 2024). These include adding more information on warnings and precautions, incorporating boxed warnings released by the FDA for prescription drugs carrying severe side effect risks, creating postmarketing experience reports on the drug’s safety and effectiveness after release to the market, implementing frequent patient counselling, and producing medication guides (Pope 2025; Santhosh & Kuber, 2024). :contentReference[oaicite:2]{index=2}</p>
+
+  <p>Although rDNA application has yielded great progress in hematological malignancies, it raises various questions regarding safety, adverse effects, and health equity. Nevertheless, issues such as CRS continue to hinder healthcare delivery and reduce patients’ quality of life. Moving forward, it is recommended to implement a fair pricing policy, mitigate toxic effects while fostering personalized care, and undertake frequent treatment monitoring.</p>
+
+  <p>Balancing healthcare innovation, patient safety, and improved access to therapies involving rDNA will ensure that its application in blood cancer therapy has a more ethical and fruitious future.</p>
+
+  <footer>
+    <p>© 2026 Revitalised Medicine. All rights reserved.</p>
+    <p><a href="https://revitalisedmedicine.weebly.com/">Back to Home</a></p>
+  </footer>
+
+</body>
+</html>
