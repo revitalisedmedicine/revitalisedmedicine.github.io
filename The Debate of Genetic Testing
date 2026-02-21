@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Debate of Genetic Testing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem auto;
+      max-width: 800px;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      font-size: 0.9rem;
+      margin-top: 2rem;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>The Debate of Genetic Testing</h1>
+  <div class="meta">Sumehra Esguerra · Biotechnology and Bioinformatics Editor in Chief at Revitalised Medicine · 29 August 2025</div>
+</header>
+
+<!-- Replace with actual image -->
+<img src="genetic-testing.jpg" alt="DNA strand and genetic data">
+
+<p>Almost one month ago, headlines about mapping babies’ DNA in England appeared in *The Telegraph* and spread widely across media. The UK’s National Health Service (NHS), partnering with Genomics England, announced plans for a long‑term newborn genome sequencing programme that aims to sequence DNA to better understand rare diseases and improve early treatment outcomes. :contentReference[oaicite:1]{index=1}</p>
+
+<p>The original *100,000 Genomes Project* laid the groundwork by increasing diagnostic yields for rare diseases across thousands of families. Now, with plans estimated to cost hundreds of millions of euros, NHS efforts are expanding under projects like the Newborn Genomes Programme to sequence DNA for more conditions that can be improved with early intervention. :contentReference[oaicite:2]{index=2}</p>
+
+<p>Genetic testing involves analysing gene variants linked to health conditions, hormonal disorders, metabolic conditions, blood diseases, and immune system irregularities. For many rare diseases, identifying the responsible genetic variants can lead to faster diagnosis, targeted management, and improved care. :contentReference[oaicite:3]{index=3}</p>
+
+<p>However, genetic testing also raises longstanding ethical and social debates—particularly around privacy, legal protections, and how DNA data is used. Critics argue that DNA collection and storage must be stringently regulated to protect individuals and communities from misuse, discrimination, or breaches. High‑profile cases involving consumer genetic companies have underscored these concerns, including lawsuits over data breaches that exposed sensitive user information. :contentReference[oaicite:4]{index=4}</p>
+
+<p>Supporters of broad genetic testing stress its potential to reduce diagnostic delays, inform personalized treatment plans, and empower families with actionable health information. Genetic counselling is often highlighted as a way to help people understand complex results and their implications. :contentReference[oaicite:5]{index=5}</p>
+
+<p>At the same time, sceptics note that some types of direct‑to‑consumer genetic tests lack regulatory oversight and can produce results that are difficult to interpret without professional guidance, sometimes leading to anxiety or misunderstanding about health risks. :contentReference[oaicite:6]{index=6}</p>
+
+<p>No matter the outlook, most experts agree that genetic technologies will grow in influence, and effectively balancing innovation with public trust remains a central challenge. :contentReference[oaicite:7]{index=7}</p>
+
+<section class="references">
+  <h2>References</h2>
+  <ul>
+    <li>Caufield et al. (2021). 100,000 Genomes Pilot on Rare‑Disease Diagnosis in Health Care. *New England Journal of Medicine*. :contentReference[oaicite:8]{index=8}</li>
+    <li>Davies (2025). NHS plans to DNA test all babies to assess disease risk. *BBC News*. :contentReference[oaicite:9]{index=9}</li>
+    <li>Donnelly (2025). DNA screening for every baby under NHS plan. *The Telegraph*. :contentReference[oaicite:10]{index=10}</li>
+    <li>Genome privacy concerns overview from PIRG Education Fund reporting. :contentReference[oaicite:11]{index=11}</li>
+    <li>Discussions on pros and cons of genetic information access and interpretation. :contentReference[oaicite:12]{index=12}</li>
+  </ul>
+</section>
+
+</body>
+</html>
