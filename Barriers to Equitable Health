@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Barriers to Equitable Health</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 2rem auto; line-height: 1.6; color: #333; }
+    header { text-align: center; margin-bottom: 1.5rem; }
+    .meta { font-size: 0.9rem; color: #666; margin-bottom: 1rem; }
+    img { max-width: 100%; height: auto; margin: 1rem 0; }
+    .references { margin-top: 2rem; font-size: 0.9rem; color: #555; }
+    .references li { margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body>
+<article>
+  <header>
+    <h1>Barriers to Equitable Health</h1>
+    <div class="meta">Health Advocacy Team · Revitalised Medicine · 2025</div>
+  </header>
+
+  <img src="barriers-to-equitable-health.jpg" alt="Illustration of healthcare disparities">
+
+  <p>Access to quality healthcare is not uniform worldwide. Marginalised communities face systemic barriers including limited access to hospitals, specialists, and diagnostic tools. Economic hardship, geographic location, and social discrimination all contribute to disparities in care. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/barriers-to-equitable-health.html))</p>
+
+  <h2>Socioeconomic Barriers</h2>
+  <p>Low-income populations often delay or forgo necessary care due to high costs of treatment and transportation. Insurance gaps and lack of financial support exacerbate these inequities.</p>
+
+  <h2>Geographic and Infrastructure Challenges</h2>
+  <p>Rural and underserved urban areas may lack access to specialized clinics and hospitals, requiring long travel distances for treatment.</p>
+
+  <h2>Cultural and Systemic Bias</h2>
+  <p>Implicit bias in medical practice and lack of culturally competent care can result in misdiagnosis or undertreatment, particularly for racial and ethnic minorities.</p>
+
+  <h2>Policy and Administrative Obstacles</h2>
+  <p>Complex insurance processes, prior authorization requirements, and limited health literacy create additional barriers to care, disproportionately affecting vulnerable groups.</p>
+
+  <h2>Improving Access</h2>
+  <p>Addressing these disparities requires systemic interventions: expanding insurance coverage, enhancing transportation and telehealth infrastructure, culturally competent care, and targeted policy reforms.</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Barriers to Equitable Health. Revitalised Medicine. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/barriers-to-equitable-health.html))</li>
+      <li>WHO. Breaking barriers towards equitable health systems. ([who.int](https://www.who.int/activities/breaking-barriers-towards-more-equitable-health-systems-for-everyone))</li>
+      <li>International Journal for Equity in Health. ([equityhealthj.biomedcentral.com](https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-025-02401-w))</li>
+    </ul>
+  </section>
+</article>
+</body>
+</html>
