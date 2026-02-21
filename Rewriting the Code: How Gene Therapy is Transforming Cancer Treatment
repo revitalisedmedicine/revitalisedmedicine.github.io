@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rewriting the Code: How Gene Therapy is Transforming Cancer Treatment — Revitalised Medicine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #000;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2rem;
+            color: #8B0000;
+        }
+        h2 {
+            color: #8B0000;
+            margin-top: 1.5em;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        .author-date {
+            font-size: 0.9rem;
+            color: #444;
+            margin-bottom: 1em;
+        }
+        .reference {
+            font-size: 0.9rem;
+            color: #444;
+        }
+        a {
+            color: #8B0000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Rewriting the Code: How Gene Therapy is Transforming Cancer Treatment</h1>
+        <div class="author-date">Makayla Anderson · Oncology Editor in Chief at Revitalised Medicine · 9 May 2025</div>
+
+        <p>A dual‑intron targeting mechanism using CRISPR‑cas9 disrupts the RUNX1‑RUNX1T1 fusion gene, which causes a shift in the nucleotide base reading frame, resulting in a premature stop codon to arise and hence, a nonfunctional oncogene. This results in decreased proliferation and tumor volume (Neldeborg et al.).</p>
+
+        <p>Cancer begins with a genetic mistake—cells that grow when they shouldn't, refusing to die when they should, often due to mutations in genes controlling cell division and repair (National Cancer Institute, n.d.). What if we could correct those errors directly at the source? This question lies at the heart of gene therapy, a rapidly evolving field in oncology that seeks to alter or replace malfunctioning genes to treat or even cure cancer (American Society of Gene and Cell Therapy, n.d.; World Health Organization, n.d.). Once seen as a distant dream, gene therapy is now producing real results, offering hope to patients facing aggressive or treatment‑resistant cancers (New England Journal of Medicine, n.d.; Nature Reviews Cancer, n.d.).</p>
+
+        <h2>The Science Behind Gene Therapy in Oncology</h2>
+
+        <p>Gene therapy involves introducing, removing, or altering genetic material within a patient's cells. In oncology, this can be used to:</p>
+
+        <h2>Inactivate Oncogenes</h2>
+        <p>Oncogenes are like faulty gas pedals in a car — they make cells grow and divide too fast, which can lead to cancer (National Cancer Institute, n.d.). Scientists are working on ways to "turn off" these genes so they stop fueling cancer growth.</p>
+
+        <h2>Restore Tumor Suppressor Genes</h2>
+        <p>Tumor suppressor genes act like brakes for cell growth, keeping things under control. But in cancer, these brakes often get damaged. Restoring them helps the body regain control, slowing down or stopping the spread of cancer cells (Nature Reviews Cancer, n.d.).</p>
+
+        <h2>Enhance Immune Responses</h2>
+        <p>Normally, your immune system can spot and destroy harmful cells — but cancer cells can hide. By modifying immune cells (like T cells), scientists help them better recognize and attack cancer, almost like giving them a better set of instructions to find the enemy (New England Journal of Medicine, n.d.).</p>
+
+        <p>Early gene therapies used viral vectors to deliver corrected genes to cells. More recently, CRISPR‑Cas9 and other gene‑editing tools have enabled precise modifications, reducing off‑target effects and improving safety (Nature Reviews Cancer, n.d.).</p>
+
+        <h2>Clinical Trials Making a Difference</h2>
+
+        <p>One landmark example is the CAR‑T cell therapy trials targeting acute lymphoblastic leukemia (ALL) and diffuse large B‑cell lymphoma. In these trials, researchers extracted a patient’s T‑cells, genetically engineered them to express a receptor (CAR) that recognizes cancer cells, and reintroduced them into the body. The results were groundbreaking—some patients with relapsed ALL achieved long‑term remission (New England Journal of Medicine, n.d.). Another pivotal trial focused on p53 gene replacement therapy. p53, known as the “guardian of the genome,” is mutated in over half of all cancers. By delivering functional p53 genes via adenoviral vectors, researchers observed tumor shrinkage in head and neck cancers (World Health Organization, n.d.). While not yet widely adopted in the U.S., it signaled the potential of gene therapy to directly repair genetic defects in cancer.</p>
+
+        <h2>Challenges and Future Directions</h2>
+
+        <p>Gene therapy isn’t a silver bullet—yet. Delivery remains a major hurdle: getting therapeutic genes into the right cells without triggering immune responses or unintended changes (American Society of Gene and Cell Therapy, n.d.). There are also ethical and safety concerns around germline editing and off‑target effects (Nature Reviews Cancer, n.d.).</p>
+
+        <h2>Examples of Treatments</h2>
+
+        <h2>Personalized Gene Editing</h2>
+        <p>Scientists are working on ways to fix genes based on a person’s exact DNA changes. This could help treatments work better and be safer (American Society of Gene and Cell Therapy, n.d.).</p>
+
+        <h2>Non‑Viral Delivery Methods</h2>
+        <p>Instead of using viruses to carry helpful genes into the body, researchers are using tiny fat‑like particles. These were used in COVID‑19 vaccines and are a safer way to deliver gene treatments (World Health Organization, n.d.).</p>
+
+        <h2>Gene Silencing (RNA Interference)</h2>
+        <p>This method doesn’t change genes but turns off ones that cause problems. It uses small pieces of RNA to block bad genes from doing harm (Nature Reviews Cancer, n.d.).</p>
+
+        <h2>Why This Matters</h2>
+
+        <p>As someone deeply passionate about oncology, I see gene therapy not just as a treatment, but as a paradigm shift in how we understand and combat cancer. It’s a field where science fiction is turning into clinical reality—where editing DNA could mean extending life. While challenges remain, the momentum is clear. The future of oncology is being written in our genes, and we’re learning how to hold the pen.</p>
+
+        <div class="reference">
+            <h2>References</h2>
+            <p>American Society of Gene and Cell Therapy. (n.d.). Gene therapy basics and Clinical trials. Retrieved from https://www.asgct.org/</p>
+            <p>National Cancer Institute. (n.d.). Cancer genes and gene therapy. Retrieved from https://www.cancer.gov/</p>
+            <p>Nature Reviews Cancer. (n.d.). CRISPR–Cas9 in cancer research and therapy. Retrieved from https://www.nature.com/nrc/</p>
+            <p>New England Journal of Medicine. (n.d.). Chimeric antigen receptor T cells in refractory B‑cell lymphomas. Retrieved from https://www.nejm.org/</p>
+            <p>World Health Organization. (n.d.). Gene therapy and global cancer treatment efforts. Retrieved from https://www.who.int/</p>
+        </div>
+
+    </div>
+</body>
+</html>
