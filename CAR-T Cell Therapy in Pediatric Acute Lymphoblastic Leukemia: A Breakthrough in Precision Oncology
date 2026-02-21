@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAR‑T Cell Therapy in Pediatric Acute Lymphoblastic Leukemia: A Breakthrough in Precision Oncology — Revitalised Medicine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #000;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2rem;
+            color: #8B0000;
+        }
+        .author-date {
+            font-size: 0.9rem;
+            color: #444;
+            margin-bottom: 1em;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        .reference {
+            font-size: 0.85rem;
+            color: #444;
+        }
+        a {
+            color: #8B0000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CAR‑T Cell Therapy in Pediatric Acute Lymphoblastic Leukemia: A Breakthrough in Precision Oncology</h1>
+        <div class="author-date">Makayla Anderson · Oncology Editor in Chief at Revitalised Medicine · 24 May 2025</div>
+
+        <p>Acute lymphoblastic leukemia (ALL) is the most common cancer diagnosed in children, representing approximately 25% of pediatric cancers. While conventional chemotherapy has significantly improved survival rates, about 15–20% of patients experience relapse or refractory disease, which is often resistant to further treatment (Inaba et al., 2013). The emergence of chimeric antigen receptor T‑cell (CAR‑T) therapy has revolutionized the treatment landscape for these high‑risk pediatric patients. :contentReference[oaicite:0]{index=0}</p>
+
+        <p><strong>Mechanism of CAR‑T Therapy</strong></p>
+        <p>CAR‑T therapy involves engineering a patient’s T cells to express a synthetic receptor that targets specific antigens on cancer cells—most commonly CD19, a protein found on B‑cell leukemias. Once infused back into the patient, these modified T cells seek and destroy CD19‑expressing leukemia cells (Maude et al., 2014). The ability of CAR‑T cells to proliferate and persist in the body adds to their effectiveness, often leading to sustained remissions. :contentReference[oaicite:1]{index=1}</p>
+
+        <p><strong>Clinical Trials and Outcomes</strong></p>
+        <p>The pivotal phase I/II ELIANA trial evaluated tisagenlecleucel, a CD19‑directed CAR‑T therapy, in pediatric and young adult patients with relapsed/refractory B‑cell ALL. The study demonstrated an 81% overall remission rate within 3 months of treatment, with 60% of patients remaining in remission after 12 months (Maude et al., 2018). Similar trials have confirmed these results, establishing CAR‑T therapy as a viable option for patients who have failed multiple lines of therapy. :contentReference[oaicite:2]{index=2}</p>
+
+        <p><strong>Safety and Adverse Events</strong></p>
+        <p>Despite its efficacy, CAR‑T therapy is associated with significant adverse events. The most concerning is cytokine release syndrome (CRS), a systemic inflammatory response triggered by the massive activation of CAR‑T cells. Neurologic toxicities, such as encephalopathy and seizures, have also been reported (Lee et al., 2014). Management strategies, including the use of tocilizumab and corticosteroids, are now routinely incorporated into treatment protocols to mitigate these effects. :contentReference[oaicite:3]{index=3}</p>
+
+        <p><strong>Resistance and Relapse</strong></p>
+        <p>A major challenge remains the relapse due to antigen escape, particularly CD19‑negative relapse, where leukemic cells lose the CD19 antigen and thus evade CAR‑T detection (Fry et al., 2018). To address this, dual‑targeted CAR‑T therapies (e.g., CD19/CD22) are being investigated to minimize the risk of immune escape and prolong remission. :contentReference[oaicite:4]{index=4}</p>
+
+        <p><strong>Future Directions</strong></p>
+        <p>Ongoing research focuses on optimizing CAR design, enhancing persistence, and reducing toxicity. Allogeneic (off‑the‑shelf) CAR‑T cells derived from healthy donors are under exploration, potentially improving accessibility and lowering production costs. In addition, integration with checkpoint inhibitors and other immunotherapies may further enhance outcomes (Gardner et al., 2017). :contentReference[oaicite:5]{index=5}</p>
+
+        <p><strong>Conclusion</strong></p>
+        <p>CAR‑T cell therapy marks a paradigm shift in pediatric oncology, offering a powerful treatment option for relapsed/refractory ALL. While challenges remain in toxicity management and relapse prevention, ongoing advancements suggest a promising future where precision immunotherapy may become a frontline standard for pediatric leukemias. :contentReference[oaicite:6]{index=6}</p>
+
+        <div class="reference">
+            <h2>References</h2>
+            <p>Inaba, H., Greaves, M., & Mullighan, C. G. (2013). Acute lymphoblastic leukaemia. The Lancet, 381(9881), 1943–1955. :contentReference[oaicite:7]{index=7}</p>
+            <p>Maude, S. L., Frey, N., Shaw, P. A., et al. (2014). Chimeric antigen receptor T cells for sustained remissions in leukemia. New England Journal of Medicine, 371(16), 1507–1517. :contentReference[oaicite:8]{index=8}</p>
+            <p>Maude, S. L., Laetsch, T. W., Buechner, J., et al. (2018). Tisagenlecleucel in children and young adults with B‑cell lymphoblastic leukemia. New England Journal of Medicine, 378(5), 439–448. :contentReference[oaicite:9]{index=9}</p>
+            <p>Lee, D. W., Gardner, R., Porter, D. L., et al. (2014). Current concepts in diagnosis and management of cytokine release syndrome. Blood, 124(2), 188–195. :contentReference[oaicite:10]{index=10}</p>
+            <p>Fry, T. J., Shah, N. N., Orentas, R. J., et al. (2018). CD22‑targeted CAR T cells induce remission in B‑ALL that is naive or resistant to CD19‑targeted CAR immunotherapy. Nature Medicine, 24(1), 20–28. :contentReference[oaicite:11]{index=11}</p>
+            <p>Gardner, R. A., Ceppi, F., Rivers, J., et al. (2017). Preemptive mitigation of CD19 CAR T‑cell cytokine release syndrome without attenuation of antileukemic efficacy. Blood, 129(22), 2653–2661. :contentReference[oaicite:12]{index=12}</p>
+        </div>
+
+    </div>
+</body>
+</html>
