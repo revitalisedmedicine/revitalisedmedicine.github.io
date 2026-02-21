@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Huntington’s Disease: A Neurodegenerative and Molecular Overview</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 2rem auto; line-height: 1.6; color: #333; }
+    header { text-align: center; margin-bottom: 2rem; }
+    .meta { font-size: 0.9rem; color: #666; margin-bottom: 1rem; }
+    img { max-width: 100%; height: auto; margin: 1rem 0; }
+    .references { margin-top: 2rem; font-size: 0.9rem; color: #555; }
+    .references li { margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Huntington’s Disease: A Neurodegenerative and Molecular Overview</h1>
+    <div class="meta">Neurology Staff Writer · Revitalised Medicine · 2025</div>
+  </header>
+
+  <!-- Replace with the actual featured image you downloaded -->
+  <img src="huntingtons-disease.jpg" alt="Illustration representing Huntington's disease">
+
+  <p><strong>Huntington’s disease (HD)</strong> is a fatal inherited neurodegenerative disorder caused by a trinucleotide (CAG) repeat expansion in the <em>HTT</em> gene on chromosome 4. This mutation results in an abnormally long polyglutamine tract in the huntingtin protein, which leads to toxic gain‑of‑function effects in neurons. As the disease progresses, it results in progressive motor dysfunction, cognitive decline, and psychiatric symptoms. :contentReference[oaicite:0]{index=0}</p>
+
+  <h2>Genetics and Molecular Basis</h2>
+  <p>HD follows an autosomal dominant pattern of inheritance and is characterised by expansion of CAG repeats in the <em>HTT</em> gene. In unaffected individuals, the HTT gene typically contains fewer than 36 CAG repeats. When the repeat count exceeds this threshold, the resulting mutant huntingtin protein becomes prone to misfolding and aggregation in neural cells, initiating a cascade of pathological processes. :contentReference[oaicite:1]{index=1}</p>
+
+  <p>This mutant form of huntingtin (mHTT) is toxic to neurons, especially medium spiny neurons in the striatum, though over time other brain regions are also affected. Neurotoxicity is believed to involve multiple mechanisms including proteostasis disruption, mitochondrial dysfunction, transcriptional dysregulation, oxidative stress, and excitotoxicity. :contentReference[oaicite:2]{index=2}</p>
+
+  <h2>Clinical Features</h2>
+  <p>HD typically presents in mid‑adult life (around 30–50 years old) with a combination of symptoms:</p>
+  <ul>
+    <li><strong>Motor abnormalities</strong>: Involuntary choreic movements, dystonia, and impaired coordination. :contentReference[oaicite:3]{index=3}</li>
+    <li><strong>Cognitive decline</strong>: Difficulties with attention, planning, and executive function. :contentReference[oaicite:4]{index=4}</li>
+    <li><strong>Psychiatric symptoms</strong>: Depression, irritability, apathy, and impulsivity. :contentReference[oaicite:5]{index=5}</li>
+  </ul>
+
+  <h2>Neuropathology</h2>
+  <p>At the cellular level, HD is marked by progressive loss of medium spiny neurons in the striatum and widespread cortical atrophy as the disease advances. Aggregated mutant huntingtin protein forms inclusion bodies in neuronal nuclei and processes, which may contribute to neuronal dysfunction and death. :contentReference[oaicite:6]{index=6}</p>
+
+  <h2>Diagnosis and Monitoring</h2>
+  <p>Diagnosis of HD is based on genetic testing confirming expanded CAG repeats in the <em>HTT</em> gene. MRI imaging often reveals striatal atrophy, particularly in the caudate nucleus and putamen, even before symptoms appear. Biomarkers such as mutant huntingtin protein levels in cerebrospinal fluid and advanced imaging modalities can help track disease progression. :contentReference[oaicite:7]{index=7}</p>
+
+  <h2>Treatment and Research</h2>
+  <p>There is currently no cure for HD. Treatment focuses on symptomatic relief, including medications for chorea and psychiatric symptoms, along with supportive care from multidisciplinary teams. Research into gene‑targeted therapies, such as HTT‑lowering antisense oligonucleotides and gene silencing approaches, is ongoing and has shown promise in reducing mutant huntingtin levels in clinical studies. :contentReference[oaicite:8]{index=8}</p>
+
+  <h2>Prognosis and Impact</h2>
+  <p>HD is relentlessly progressive, with symptoms typically worsening over 10–20 years after onset. It ultimately leads to severe disability and is fatal. Genetic counselling and support for families affected by HD remain important components of care. :contentReference[oaicite:9]{index=9}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Huntington’s disease overview: genetics and mechanisms. Wikipedia. :contentReference[oaicite:10]{index=10}</li>
+      <li>Rubinsztein DC, Carmichael J. Huntington’s disease: molecular basis of neurodegeneration. 2003. :contentReference[oaicite:11]{index=11}</li>
+      <li>Jiang A, Handley R, Lehnert K, Snell R. From Pathogenesis to Therapeutics: A Review of 150 Years of Huntington’s Disease Research. Int J Mol Sci, 2023. :contentReference[oaicite:12]{index=12}</li>
+      <li>Multisystem neurodegenerative pathology in HD. Brain Pathol, 2016. :contentReference[oaicite:13]{index=13}</li>
+      <li>New insights into molecular pathogenesis and therapies in HD. Nat Rev Neurol, 2020. :contentReference[oaicite:14]{index=14}</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
