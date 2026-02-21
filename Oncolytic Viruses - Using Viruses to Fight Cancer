@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oncolytic Viruses — Using Viruses to Fight Cancer — Revitalised Medicine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #000;
+            background-color: #fff;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2rem;
+            color: #8B0000;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        .author-date {
+            font-size: 0.9rem;
+            color: #444;
+            margin-bottom: 1em;
+        }
+        .reference {
+            font-size: 0.9rem;
+            color: #444;
+            margin-top: 2em;
+        }
+        a {
+            color: #8B0000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Oncolytic Viruses — Using Viruses to Fight Cancer</h1>
+        <div class="author-date">Makayla Anderson · Oncology Editor in Chief at Revitalised Medicine · 24 June 2025</div>
+
+        <p>The procedure and expected outcome of incorporating oncolytic viruses into a tumour cell involves viral RNA stimulating an immune response against cancer and deleting disease‑causing genes. In this way, an oncolytic virus destroys the tumour cell while leaving healthy cells unharmed. :contentReference[oaicite:1]{index=1}</p>
+
+        <p>When we hear the word “virus,” we usually think of illness. But in cancer research, scientists are exploring a very different side of viruses — one that could help save lives. These viruses are called oncolytic viruses, and they are designed to attack cancer cells. :contentReference[oaicite:2]{index=2}</p>
+
+        <h2>What Are Oncolytic Viruses?</h2>
+        <p>Oncolytic viruses are a special type of virus that can infect and destroy cancer cells. Some are found in nature, while others are genetically modified in laboratories to be more effective and safer. The key is that these viruses are selective — they are designed to target cancer cells while avoiding healthy ones. :contentReference[oaicite:3]{index=3}</p>
+
+        <h2>How Do They Work?</h2>
+        <p>Oncolytic viruses fight cancer in two main ways:</p>
+        <ul>
+            <li><strong>Direct destruction of cancer cells:</strong> The virus enters a cancer cell, multiplies inside it, and eventually causes the cell to burst open. This process, called lysis, releases new viruses that can go on to infect more cancer cells. :contentReference[oaicite:4]{index=4}</li>
+            <li><strong>Activating the immune system:</strong> As the virus kills cancer cells, it creates a signal that alerts the immune system. This helps the body recognise and attack the tumour, even if it had previously been “invisible” to the immune system. :contentReference[oaicite:5]{index=5}</li>
+        </ul>
+
+        <h2>A Real‑World Example</h2>
+        <p>The first FDA‑approved oncolytic virus is called T‑VEC (talimogene laherparepvec), a modified version of the herpes simplex virus. It is used to treat a type of skin cancer called melanoma. T‑VEC is injected directly into tumours, where it helps destroy cancer cells and boost the immune response. :contentReference[oaicite:6]{index=6}</p>
+
+        <h2>Why This Matters</h2>
+        <p>Oncolytic viruses offer a new approach to cancer treatment — especially for tumours that are hard to treat with traditional methods like chemotherapy or radiation. Early results are promising, and ongoing research continues to explore their potential as part of combination therapies and new precision oncology strategies. :contentReference[oaicite:7]{index=7}</p>
+
+        <div class="reference">
+            <h2>References</h2>
+            <p>Oncolytic Viruses — Using Viruses to Fight Cancer. Revitalised Medicine. Makayla Anderson · 24 June 2025. :contentReference[oaicite:8]{index=8}</p>
+            <p>American Cancer Society, “Oncolytic Virus Therapy and Its Side Effects.” :contentReference[oaicite:9]{index=9}</p>
+            <p>Cancer Research Institute, “Oncolytic Virus Therapy: How It Works.” :contentReference[oaicite:10]{index=10}</p>
+        </div>
+
+    </div>
+</body>
+</html>
