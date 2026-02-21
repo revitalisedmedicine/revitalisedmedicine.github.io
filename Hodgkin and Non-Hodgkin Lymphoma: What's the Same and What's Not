@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hodgkin and Non‑Hodgkin Lymphoma: What's the Same and What's Not</title>
+  <style>
+    body {
+      font-family: Arial, sans‑serif;
+      color: #000;
+      line-height: 1.7;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: #fff;
+    }
+    h1, h2 {
+      font-weight: bold;
+      margin-top: 1.5em;
+    }
+    p, li {
+      margin: 1em 0;
+    }
+    ul, ol {
+      margin: 1em 0 1em 2em;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #333;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
+    }
+    a { color: crimson; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .image { margin: 20px 0; }
+  </style>
+</head>
+<body>
+
+  <h1>Hodgkin and Non‑Hodgkin Lymphoma: What's the Same and What's Not</h1>
+  <p><em>Moon Hoang · Oncology Editor in Chief at Revitalised Medicine<br>25 August 2025</em></p>
+
+  <div class="image">
+    <!-- original image embed -->
+    <img src="https://revitalisedmedicine.weebly.com/uploads/..." alt="Picture">
+  </div>
+
+  <p>There are over 90 types of lymphoma, yet they are all classified into two categories: Hodgkin and Non‑Hodgkin Lymphoma (Brody 2023). Although they share some clinical features and treatments, these subtypes differ greatly in their cell origin, prevalence and prognosis. It is therefore important to understand both the similarities and differences between them, which will be beneficial for healthcare providers in providing accurate diagnostic and prescribing treatments.​</p>
+
+  <h2>Cell Origin</h2>
+  <p>Hodgkin Lymphoma arises through the mutation of B lymphocytes (a type of white blood cell), resulting in the formation of large, multinucleated cells called Reed‑Sternberg (RS) cells (What is Hodgkin Lymphoma?, 2025).</p>
+  <p>In contrast, RS cells are absent in Non‑Hodgkin Lymphoma (NHL). Additionally, the uncontrolled production of lymphocytes, B cells, T cells, and natural killer (NK) cells that target tumour cells within the body causes this cancer to arise. B cells are responsible for producing antibodies to fight infections, while T cells play a role in attacking foreign pathogens (Non‑Hodgkin Lymphoma, 2024).</p>
+  <p>The presence of RS cells is a distinct feature that distinguishes between HL and NHL.</p>
+
+  <h2>Prevalence</h2>
+  <p>HL tends to affect individuals aged between 15 and 40, and adults over age 55. Whereas NHL is typically seen in individuals over age 60 (Adams, 2021). Compared to HL, NHL is more common, for it is ranked as the seventh‑most diagnosed cancer in the U.S., with an estimated 80,470 new cases in 2022. Meanwhile, HL accounted for only 0.4% of all new cancer cases, with an estimated 8,540 HL patients in 2022 (Difference between Hodgkin vs Non‑Hodgkin lymphoma | City of Hope, 2023).</p>
+
+  <h2>Risk Factors</h2>
+  <p>The causes for both HL and NHL remain unknown, but for HL specifically, it could be the Epstein‑Barr virus infection that alters the DNA of B‑cells (Brody, 2023).</p>
+  <p>Individuals with weakened immune systems due to taking anti‑rejection medication, drugs designed to suppress the immune system from attacking foreign objects, which in this case is donated organs, following organ transplants and who have autoimmune rheumatologic diseases, like rheumatoid arthritis or lupus, are also at a higher risk of developing either type of lymphoma.</p>
+  <p>Additional factors such as old age, male sex, and a family history of having lymphoma can increase the risk for both HL and NHL (Brody, 2023). Young adults are more likely to develop HL, and individuals who are exposed to radiation have a higher chance of developing NHL (Brody, 2023).</p>
+
+  <h2>Symptoms</h2>
+  <p>Cytokines are proteins that manage the immune and inflammatory response, blood cell production (hematopoiesis), and wound healing. In the body, cytokines are present in small amounts. On one hand, in HL, RS cells secrete cytokines that attract the immune cells to the infected site. The growth of RS cells is sustained as these surrounding reactive cells produce more cytokines (Skinnider & Mak, 2002).</p>
+  <p>The overexpression of cytokines is responsible for fever, weight loss, night sweats and defective cell‑mediated immunity. HL patients can experience inflammatory symptoms such as pain in the lymph nodes when taking a hot bath or drinking alcohol (Adams, 2021).</p>
+  <p>On the other hand, NHL is caused by acquired genetic mutations that trigger lymphocytes to multiply and form tumors (What is Non‑Hodgkin Lymphoma?, 2025). A common mutation is chromosomal translocation, t(14;18) translocation, where proto‑oncogenes are activated and tumor suppressor genes are repressed (this is responsible for causing follicular lymphoma) (Sapkota & Shaikh, 2023).</p>
+  <p>In contrast to HL, NHL may exhibit symptoms such as easy bruising or bleeding due to low platelet counts, early satiety after eating a small portion of food, severe and recurring infection, and abdominal swelling (Brody, 2023). NHL patients might experience enlarged tonsils and unexplained itching (Symptoms of Non‑Hodgkin Lymphoma, 2024).</p>
+  <p>Lymph nodes have a bean‑shaped structure and can be found in the neck, armpit, groin and behind the ears. Their role is to filter lymphatic fluid containing waste materials from cells, tissues, bacteria, and viruses (Martin & Aaronson, 2024). A lymph node is made up of a capsule, cortex, paracortex, and medulla. In both HL and NHL, mutated immune cells proliferate in the lymph node and lead to lymph node swelling, obstructing nearby tissues, causing pain, altering blood flow, and introducing frequent infections (Brody, 2023).</p>
+  <p>In most cases of HL and NHL, lymph node swelling is a common sign. Common symptoms caused by both HL and NHL include chest pain, night sweats, trouble breathing, fatigue, shortness of breath and unexplained weight loss (Brody, 2023).</p>
+
+  <h2>Subtypes</h2>
+  <p>The two main subtypes of HL are classical Hodgkin lymphoma (CHL) and nodular lymphocyte‑predominant Hodgkin lymphoma (NLPHL). 95% of HL patients have the subtype CHL, while only 5% have NLPHL. CHL can be identified with the presence of Hodgkin and RS cells. NLPHL is characterised by a variant of the RS cells, the lymphocyte‑predominant cells, which take the shape of popcorn cells (Hodgkin Lymphoma Subtypes, n.d).</p>
+  <p>Unlike HL, there are more subtypes of NHL — about sixty — including B‑cell lymphoma, T‑cell lymphoma, aggressive lymphoma and indolent lymphoma. In B‑cell lymphoma, B cells are infected and attacked, while in T‑cell lymphoma the T cells are the target of infection. Aggressive lymphomas require immediate treatment due to rapid growth, while indolent lymphomas progress slowly. B‑cell lymphoma is the most common subtype, making up about 85% of all NHL diagnoses in the U.S. (Non‑Hodgkin Lymphoma, 2024).</p>
+
+  <h2>Treatment Options</h2>
+  <p>Treatment varies depending on the progression and type of lymphoma. Both HL and NHL can be treated with chemotherapy and radiation. Another option is stem cell transplant — either autologous (using the patient’s own cells) or allogeneic (using donor cells) (Brody, 2023).</p>
+  <p>If these treatments fail, patients may undergo immunotherapy, using drugs that harness the immune system to fight cancer cells (Brody, 2023). For example, follicular lymphoma patients may receive radiation first; if cancer progresses, they receive a combination of monoclonal antibody therapy and chemotherapy. Chemotherapy regimens include single drugs like bendamustine or combinations like CHOP or CVP. Immunotherapy drugs such as lenalidomide, rituximab, or obinutuzumab may also be used (Brody, 2023).</p>
+  <p>For relapsed cases, treatments may include additional chemo drugs, targeted therapies, CAR‑T cell therapy, and monoclonal antibodies (Treating B‑Cell Non‑Hodgkin Lymphoma, 2025). Early‑stage HL often involves chemotherapy regimens such as ABVD and optional radiotherapy. If response is poor, healthcare providers may switch drugs or incorporate stem cell transplant and immunotherapy drugs like brentuximab vedotin, nivolumab, or pembrolizumab (Hodgkin Lymphoma Treatment Protocol by Stage, 2024).</p>
+
+  <h2>Survival Rate</h2>
+  <p>Diagnosis for HL usually occurs earlier, making it easier to treat than NHL (Brody, 2023). According to survival data, over 89% of HL patients survive five years or more after diagnosis, compared to about 74% of NHL patients (Difference Between Hodgkin vs Non‑Hodgkin lymphoma | City of Hope, 2023).</p>
+
+  <footer>
+    <p>© 2026 Revitalised Medicine. All rights reserved.</p>
+    <p><a href="https://revitalisedmedicine.weebly.com/">Back to Home</a></p>
+  </footer>
+
+</body>
+</html>
