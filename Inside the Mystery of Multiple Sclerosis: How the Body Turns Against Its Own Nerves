@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Inside the Mystery of Multiple Sclerosis</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Inside the Mystery of Multiple Sclerosis: How the Body Turns Against Its Own Nerves</h1>
+    <div class="meta">Edha Talwar · Neurology Staff Writer at Revitalised Medicine · 26 November 2025</div>
+  </header>
+
+  <!-- Replace with the actual image you download -->
+  <img src="ms-illustration.jpg" alt="Diagram showing nerve damage in multiple sclerosis">
+
+  <p>Multiple Sclerosis (MS) is a chronic autoimmune disorder that affects the central nervous system (CNS), which includes the brain, spinal cord, and optic nerves. In MS, the immune system mistakenly attacks a fatty layer called myelin that insulates nerve fibres. This protective covering helps electrical signals travel quickly and smoothly between the brain and the rest of the body. Without myelin, nerve signals slow down or get interrupted altogether, producing a wide range of neurological symptoms. :contentReference[oaicite:0]{index=0}</p>
+
+  <h2>How MS Affects the Body</h2>
+  <p>Imagine the nervous system like electrical wires covered in insulation. If the insulation wears away, the current can leak, slow down, or stop. In MS, the immune system’s attack on the myelin sheath creates lesions — hardened patches of scar tissue — in multiple areas of the CNS, which is why the disease is called “multiple sclerosis” (“many scars”). :contentReference[oaicite:1]{index=1}</p>
+
+  <h2>Common Symptoms</h2>
+  <p>Because the CNS controls so many body functions, MS can produce a variety of symptoms that may come and go or progressively worsen over time. These include:</p>
+  <ul>
+    <li>Numbness or tingling in the face, arms, or legs. :contentReference[oaicite:2]{index=2}</li>
+    <li>Muscle weakness or stiffness that affects movement. :contentReference[oaicite:3]{index=3}</li>
+    <li>Difficulty walking, balancing, or coordinating movements. :contentReference[oaicite:4]{index=4}</li>
+    <li>Vision problems such as blurred or double vision due to optic nerve inflammation. :contentReference[oaicite:5]{index=5}</li>
+    <li>Bladder or bowel changes as nerve signals are disrupted. :contentReference[oaicite:6]{index=6}</li>
+    <li>Memory, concentration issues, or emotional changes like depression. :contentReference[oaicite:7]{index=7}</li>
+  </ul>
+
+  <h2>Types of MS</h2>
+  <p>Doctors classify MS based on how symptoms appear and change over time:</p>
+  <ul>
+    <li><strong>Relapsing‑Remitting MS (RRMS):</strong> the most common form, with episodes of new or worsening symptoms (relapses) followed by periods of partial or full recovery (remissions). :contentReference[oaicite:8]{index=8}</li>
+    <li><strong>Secondary Progressive MS (SPMS):</strong> occurs years after RRMS, with steady worsening and fewer clear remissions. :contentReference[oaicite:9]{index=9}</li>
+    <li><strong>Primary Progressive MS (PPMS):</strong> symptoms worsen steadily from the start without distinct relapses or remissions. :contentReference[oaicite:10]{index=10}</li>
+  </ul>
+
+  <h2>Causes and Risk Factors</h2>
+  <p>The exact cause of MS remains unknown, but several factors increase risk. It is believed that genetic predisposition and environmental triggers — such as low vitamin D, smoking, and viral infections like Epstein‑Barr Virus — can contribute to disease onset. Importantly, MS is not contagious. :contentReference[oaicite:11]{index=11}</p>
+
+  <h2>Diagnosis and Management</h2>
+  <p>There’s no single test that confirms MS, so doctors use a combination of:</p>
+  <ul>
+    <li>Neurological exams that test reflexes and coordination. :contentReference[oaicite:12]{index=12}</li>
+    <li>MRI scans that detect lesions in the brain and spinal cord. :contentReference[oaicite:13]{index=13}</li>
+    <li>Lumbar puncture (spinal tap) to detect immune activity in cerebrospinal fluid. :contentReference[oaicite:14]{index=14}</li>
+  </ul>
+
+  <p>While there is no cure for MS yet, treatment can slow disease progression, reduce relapse frequency, and manage symptoms. Disease‑modifying therapies (DMTs) — such as interferons and monoclonal antibodies — alter how the immune system behaves, helping to protect myelin and maintain neurological function. :contentReference[oaicite:15]{index=15}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Edha Talwar. <em>Inside the Mystery of Multiple Sclerosis: How the Body Turns Against Its Own Nerves</em>. Revitalised Medicine, 26 November 2025. :contentReference[oaicite:16]{index=16}</li>
+      <li>Multiple Sclerosis is an autoimmune condition where the immune system attacks the nervous system. :contentReference[oaicite:17]{index=17}</li>
+      <li>Signs of MS may show up in blood years before symptoms by detecting autoantibodies. :contentReference[oaicite:18]{index=18}</li>
+      <li>MS affects nerve signal transmission by damaging protective myelin sheaths. :contentReference[oaicite:19]{index=19}</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
