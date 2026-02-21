@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Forgotten Organ: How the Interstitium Could Change Modern Medicine</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem auto;
+      max-width: 800px;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      font-size: 0.9rem;
+      margin-top: 2rem;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>The Forgotten Organ: How the Interstitium Could Change Modern Medicine</h1>
+  <div class="meta">Hanshika Dharma · Anatomy Editor in Chief at Revitalised Medicine · 5 August 2025</div>
+</header>
+
+<!-- Replace "interstitium.jpg" with the real image file -->
+<img src="interstitium.jpg" alt="Imaging of the interstitium">
+
+<p>An organ: A part of an organism that is typically self-contained and has a specific vital function. (Oxford Languages) However, a study from 2018 may change that definition for good. "Interstitium" sounds alien to many—probably because its nature is still being debated. But what is it in the first place? Let’s take a closer look. :contentReference[oaicite:0]{index=0}</p>
+
+<h2>What is the Interstitium?</h2>
+<p>The interstitium is the space between cells filled with fluid, supported and organized by a collagen lattice that allows it to change shape and return to normal. It exists in organs where tissues constantly compress and stretch, such as the lungs and digestive tract. :contentReference[oaicite:1]{index=1}</p>
+
+<h2>How Was It Discovered?</h2>
+<p>This discovery came as a surprise because traditional tissue sampling destroys fluid-filled spaces. Researchers used confocal laser endomicroscopy (pCLE), which images live tissue without draining the fluid. By injecting a fluorescein dye and using lasers, they saw a net-like, fluid-filled pattern previously unseen in anatomy. :contentReference[oaicite:2]{index=2}</p>
+
+<h2>What Effects Does It Have on the Body?</h2>
+<p>The interstitium plays many roles in the body. Its fluid-filled structure may act as a **shock absorber** and may also participate in **cellular signaling**, including hormonal and immunological signals. The way it is organized could also contribute to processes like **cancer metastasis**, **edema**, **fibrosis**, and other tissue mechanics. :contentReference[oaicite:3]{index=3}</p>
+
+<h2>How This Changes Medicine</h2>
+<p>This finding highlights how new imaging techniques can reveal previously missed structures. It reinforces the importance of live imaging tools like pCLE and suggests that understanding the interstitium could lead to **new diagnostics and treatments** for diseases involving interstitial fluid dysfunction. :contentReference[oaicite:4]{index=4}</p>
+
+<h2>The Significance of the Interstitium in Research</h2>
+<p>Whether or not the interstitium is officially classified as an organ, its discovery has opened potential research avenues. It may help explain previously overlooked mechanisms in the body’s physiology and inspire further scientific exploration. :contentReference[oaicite:5]{index=5}</p>
+
+<section class="references">
+  <h2>References</h2>
+  <ul>
+    <li>Benias, P. C., et al. Structure and distribution of an unrecognized interstitium in human tissues. Scientific Reports, 2018. :contentReference[oaicite:6]{index=6}</li>
+    <li>Genetic Engineering & Biotechnology News (GEN). Overlooked Organ-Like Structure in Human Body Found to Have Unique Functions, 2018. :contentReference[oaicite:7]{index=7}</li>
+    <li>NYU Langone Health. NYU School of Medicine Pathologist Uncovers Potential New Organ, Setting Off Fiery Debate, 2018. :contentReference[oaicite:8]{index=8}</li>
+    <li>Oxford Languages. Definition of “organ.” :contentReference[oaicite:9]{index=9}</li>
+  </ul>
+</section>
+
+</body>
+</html>
