@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paraneoplastic Syndromes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #000;
+      line-height: 1.7;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: #fff;
+    }
+    h1, h2 {
+      font-weight: bold;
+      margin-top: 1.5em;
+    }
+    p, li {
+      margin: 1em 0;
+    }
+    ul, ol {
+      margin: 1em 0 1em 2em;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #333;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
+    }
+    a { color: crimson; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .image { margin: 20px 0; }
+  </style>
+</head>
+<body>
+
+  <h1>Paraneoplastic Syndromes</h1>
+  <p><em>Moon Hoang · Oncology Editor in Chief at Revitalised Medicine<br>22 October 2025</em></p>
+
+  <p>The immune system is a strong warrior, protecting the body from harmful pathogens. However, in cancer, this ability can become a double‑edged sword, mistaking healthy cells and attacking them simply due to their shared antigens with tumor cells, leading to an autoimmune response known as paraneoplastic syndrome (Jadoon et al., 2024). </p>
+
+  <p>Paraneoplastic syndromes refer to a series of side effects in various cancers, including hematological malignancies, lung cancer and breast cancer (Sruthi, 2023). While twenty percent of cancer patients experience paraneoplastic syndromes, they often remain unnoticed (Gale, 2024). Paraneoplastic syndromes can occur at any cancer stage, even before its diagnosis, meaning that detecting symptoms punctually is necessary for improved clinical outcomes (Thapa et al., 2023). </p>
+
+  <h2>Mechanisms</h2>
+  <p>The syndrome evolves through two mechanisms: Immunologic and non‑immunologic (Thapa et al., 2023). In immunologic mechanisms, antigens on tumor cells trigger the immune system, where T cells recognize and attack them, while humoral immune systems (B lymphocytes) produce extracellular antibodies to destroy these pathogens (Thapa et al., 2023). Sometimes, normal cells share similar antigens with the tumor, causing the immune system to mistakenly attack them (Thapa et al., 2023). </p>
+
+  <p>For example, antigens in brain and cancer cells trigger paraneoplastic antibodies (or onconeural antibodies), such as type‑1 antineuronal nuclear (ANNA‑1) antibodies, Collapsing Response Mediator Protein 5 (CRMP‑5) antibodies, and Purkinje Cell Cytoplasmic Antibody Type‑1 (PCA‑1) antibodies (Thapa et al., 2023). </p>
+
+  <p>On the other hand, the non‑immunologic mechanism is characterized by the excessive release of hormones and cytokines, causing hyponatremia (a low level of sodium in the blood) from excessive antidiuretic hormone or hypercalcemia (a high level of calcium in the blood) secretion due to excessive Parathyroid Hormone‑related Peptide (PTHrP) concentration (Thapa et al., 2023). </p>
+
+  <h2>Symptoms</h2>
+  <p>Paraneoplastic syndrome affects nearly every body system, though neurological syndromes, endocrine syndromes, and hematological syndromes are the most common.</p>
+
+  <p>When the central nervous system is affected, patients may develop subacute cerebellar degeneration, a condition associated with Hodgkin lymphoma, breast cancer, and small cell lung cancer (Thapa et al., 2023). The neurological complication results from ANNA‑1 antibodies targeting cerebellar antigens, leading to ataxia (poor muscle coordination), dysarthria (speech disorder) and diplopia (seeing double vision of a single object) (Thapa et al., 2023). </p>
+
+  <p>In cases involving the neuromuscular junction (communication site between nerves and muscles), patients may have myasthenia gravis, a condition commonly seen in thymoma patients (Thapa et al., 2023). Here, anti‑acetylcholine receptor antibodies, which reduce signal transmission and lead to weakness in muscles and diaphragmatic weakness, target acetylcholine receptors (Thapa et al., 2023). </p>
+
+  <p>Regarding the endocrine system, certain cancer cells release high ectopic adrenocorticotropic hormone (ACTH) concentrations, resulting in Crushing syndrome (Thapa et al., 2023). Affected patients experience muscle weakness, peripheral edema (swelling in legs or hands due to fluid retention), and high blood pressure (Thapa et al., 2023). </p>
+
+  <p>Furthermore, patients with multiple myeloma, lung cancer, and renal cell carcinoma often develop hypercalcemia due to excessive PTHrP secretion from tumor cells (Thapa et al, 2023). The syndrome can alter one’s mental health, cause acute kidney failure and hypertonia (increased muscle tension) (Thapa et al., 2023). </p>
+
+  <p>In contrast, patients with hematological syndromes may not initially exhibit any symptoms, but can later appear pale, tired, and develop venous thromboembolism (Thapa et al., 2023). These symptoms are often seen in polycythemia, resulting from excessive erythropoietin hormone secretion in hepatocellular carcinoma (a type of liver cancer) and renal carcinoma (a type of kidney cancer) (Thapa et al., 2023). </p>
+
+  <h2>Treatments</h2>
+  <p>Treating paraneoplastic syndrome focuses on alleviating and stopping the immune system from targeting healthy cells (What is a paraneoplastic syndrome? 2025). The three main treatments for these autoimmune symptoms are plasmapheresis, intravenous immunoglobulin therapy and immunosuppressant drugs.</p>
+
+  <p>First of all, in plasmapheresis, one utilizes a separator to remove plasma‑containing antibodies responsible for triggering paraneoplastic syndrome (Lawrence, n.d.). The therapy begins with inserting a thin tube into a large vein in the arm and another tube in the opposite hand or foot (Lawrence, n.d.). One tube will draw and pass blood to a separator, and then the blood is returned through the other tube (Lawrence, n.d.). </p>
+
+  <p>Although a small amount of blood is taken each time, patients might risk having a drop in blood pressure, bleeding, and immune suppression during treatment (Lawrence, n.d.). </p>
+
+  <p>Other than plasmapheresis, intravenous immunoglobulin (IVIg) serves as another effective treatment option. An IVIg solution consists of healthy, donated antibodies used to reinforce the immune system (How IVIG supports Immune Health, 2025). In IVIg therapy, patients receive the IVIg solution from an IV catheter inserted into their hands or lower arms (Lawrence, n.d.). </p>
+
+  <p>IVIg treatment involves missing antibody replacement, harmful antibody inhibition, and cytokines and immune cell Fcγ receptor interactions (How IVIG supports Immune Health, 2025). Through these interactions, IVIg can suppress inflamed immune cell activation and reduce autoimmune symptoms (How IVIG supports Immune Health 2025). After the therapy, patients are expected to experience headache, fever and nausea (Lawrence, n.d.). </p>
+
+  <p>Alternatively, combining multiple immunosuppressant drugs is usually recommended for treatment. These medications are taken orally to suppress antibody production associated with paraneoplastic syndromes (Lawrence, n.d.). Studies have shown improved patient outcomes when immunosuppressant drugs are combined with plasmapheresis or IVIg (Lawrence, n.d.). </p>
+
+  <p>Given paraneoplastic syndromes’ unpredictable and diverse nature, living with symptoms associated with these conditions can be challenging for cancer patients. With available treatment approaches, patient outcomes have improved, but side effects still constrain them. Refined medications that do not produce those side effects can enhance patient life quality.</p>
+
+  <footer>
+    <p>© 2026 Revitalised Medicine. All rights reserved.</p>
+    <p><a href="https://revitalisedmedicine.weebly.com/">Back to Home</a></p>
+  </footer>
+
+</body>
+</html>
