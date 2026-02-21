@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pathology of Renal Cell Carcinoma and Cancers Involving TFEB or TFE3 Gene Translocations</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+      color: #000;
+      background-color: #fff;
+    }
+    h1, h2, h3 {
+      color: #8B0000;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      display: block;
+      margin: 1rem 0;
+    }
+    .metadata {
+      font-style: italic;
+      margin-bottom: 1rem;
+    }
+    a {
+      color: #8B0000;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Pathology of Renal Cell Carcinoma and Cancers Involving TFEB or TFE3 Gene Translocations</h1>
+  <p class="metadata">Ifza Zia · Pathology Staff Writer at Revitalised Medicine<br>4 November 2025</p>
+
+  <p><img src="PATH_TO_ORIGINAL_IMAGE" alt="TFEB‑rearranged carcinoma histopathology"></p>
+
+  <p>Histopathologic image showing TFEB‑rearranged carcinoma cells with an appearance characterized by larger epithelioid and smaller clustered cells around an extracellular matrix that secure them (Tretiakova, n.d.).</p>
+
+  <p>Renal cell carcinoma is the most common type of kidney cancer that develops when kidney filtering tube cells grow uncontrollably. Many times, it is accidentally discovered during body scans, since symptoms often appear late. When they do occur, they may include blood in urine, back or side pain, or abdominal lumps. The tumour usually starts in the outer part of the kidney.</p>
+
+  <p>Genetic tests and understanding carcinoma cell structure assists in determining this disease’s seriousness and its best treatment (Argani, 2015).</p>
+
+  <p>When viewed under the microscope, the tumour’s appearance changes depending on its type. In clear cell renal cell carcinoma, the tumour cells appear clear because they store fat and sugar, and a network of tiny blood vessels surrounds them. In papillary renal cell carcinoma, the tumour consists of finger‑like projections called papillae, which are lined with tumour cells and often contain foam‑like immune cells and tiny calcium deposits.</p>
+
+  <p>In chromophobe renal cell carcinoma, the tumour consists of large, pale cells with sharp borders. Identifying the correct subtype is very important because each tumour can behave differently and may respond to different treatments (Klatte et al., 2013).</p>
+
+  <p>A special form of kidney cancer occurs after two specific genes known as transcription factor E3 and transcription factor EB translocate. These genes belong to the microphthalmia‑associated transcription factor family. In these cancers, specific chromosomal parts switch places, forming a fusion gene promoting uncontrolled cell proliferation.</p>
+
+  <p>Because these tumours can resemble other common kidney cancers under the microscope, molecular testing, such as gene rearrangement tests, is vital for an accurate diagnosis (Argani, 2015).</p>
+
+  <p>Such cancers caused by transcription factor E3 gene fusions, often called Xp11‑translocation kidney cell carcinomas, occur when the X chromosome gene fuses with other partner genes, such as PRCC or ASPSCR1. This fusion produces an abnormal amount of protein driving cancer growth (Klatte et al., 2013). Under the microscope, these tumours usually show papillary or clustered growth patterns and consist of cells having clear or slightly pink cytoplasm and rounded nuclei with visible nucleoli.</p>
+
+  <p>These tumours are more often found in minors, but they can also occur in adults, where they may behave more aggressively (Lee et al., 2022). A notable transition occurs in some cases, where genetic changes are involved, particularly those affecting the transcription factor EB (TFEB) gene.</p>
+
+  <p>Cancers involving TFEB gene fusions, known as t(6;11) translocation kidney cell carcinomas, arise when the TFEB gene on chromosome 6 fuses with another gene called MALAT1 on chromosome 11. This causes TFEB protein overproduction, and that activates cell growth and metabolism pathways (Lee et al., 2022). Under the microscope, these tumours can show both small and large cells with pink, granular cytoplasm.</p>
+
+  <p>Laboratory tests often reveal specific protein markers such as cathepsin K and certain melanocyte‑related markers. Although rarer than transcription factor E3 fusion cancers, transcription factor EB fusion cancers are important to recognise because they require special testing and management (Argani, 2015).</p>
+
+  <p>Recognising these gene‑translocation kidney cancers is critical because they often do not respond to standard kidney cancer treatments that target vascular endothelial growth factors. New therapies are being developed to block the abnormal microphthalmia‑associated transcription factor and its involvement in pathways or to strengthen the body’s immune response that fights the tumour.</p>
+
+  <p>Advanced molecular tests, such as fluorescence in‑situ hybridisation, RNA sequencing, and immunohistochemistry, are key for confirming diagnosis and guiding proper treatment (Lee et al., 2022). Understanding these cancers’ structures and genetic backgrounds helps doctors make more accurate diagnoses and develop personalised treatment plans that improve patient outcomes.</p>
+
+  <h2>References</h2>
+  <ul>
+    <li>Argani, P. (2015). MIT family translocation renal cell carcinoma. <em>Seminars in Diagnostic Pathology.</em> https://pubmed.ncbi.nlm.nih.gov/25758327/</li>
+    <li>Klatte, T., Pantuck, A. J., & Belldegrun, A. S. (2013). Translocation renal cell carcinoma in adults. <em>Urologic Oncology: Seminars and Original Investigations.</em> https://pmc.ncbi.nlm.nih.gov/articles/PMC3527899/</li>
+    <li>Lee, C., Chun, S.-M., Kim, T. H., Ahn, H. J., Ha, S. Y., Cho, N. H., & Ku, J.-L. (2022). Clinical characteristics and outcomes of TFE3‑rearranged and TFEB‑altered renal cell carcinoma. <em>Electronic Journal of Urology.</em> https://pubmed.ncbi.nlm.nih.gov/38588851/</li>
+  </ul>
+
+</body>
+</html>
