@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Peripheral Nervous System: Structural Organization, Functional Divisions, and Physiological Significance</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #000;
+      line-height: 1.7;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: #fff;
+    }
+    h1, h2, h3 {
+      font-weight: bold;
+      margin-top: 1.5em;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+    p {
+      margin: 1em 0;
+    }
+    ul {
+      margin: 1em 0 1em 2em;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #333;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>The Peripheral Nervous System: Structural Organization, Functional Divisions, and Physiological Significance</h1>
+  <p><em>By Revitalised Medicine</em></p>
+
+  <p>The peripheral nervous system (PNS) includes all the nerves and ganglia outside the brain and spinal cord. It serves as the communication network that connects the central nervous system (CNS) with limbs and organs, enabling sensory perception, motor control, and reflexive responses. Structurally, it encompasses cranial and spinal nerves that branch from the CNS to the periphery of the body.:contentReference[oaicite:0]{index=0}</p>
+
+  <h2>Structural Organization</h2>
+  <p>The PNS consists of nerve fibers and ganglia. Nerve fibers carry electrical impulses between the CNS and the rest of the body. These include:</p>
+  <ul>
+    <li><strong>Cranial nerves</strong> – nerves that emerge from the brain to innervate head, neck, and sensory organs.:contentReference[oaicite:1]{index=1}</li>
+    <li><strong>Spinal nerves</strong> – nerves that exit the spinal cord and transmit signals to muscles, skin, and internal organs.:contentReference[oaicite:2]{index=2}</li>
+  </ul>
+
+  <h2>Functional Divisions</h2>
+  <p>The PNS is functionally divided into two major systems:</p>
+
+  <h3>Somatic Nervous System (SNS)</h3>
+  <p>The somatic nervous system controls voluntary movement and sensory input from the external environment. It carries sensory (afferent) signals to the CNS and motor (efferent) signals from the CNS to skeletal muscles.:contentReference[oaicite:3]{index=3}</p>
+
+  <h3>Autonomic Nervous System (ANS)</h3>
+  <p>The autonomic nervous system regulates involuntary body functions such as heart rate, digestion, respiration, and gland activity. It has two main branches:</p>
+  <ul>
+    <li><strong>Sympathetic division</strong> – prepares the body for “fight or flight” responses.:contentReference[oaicite:4]{index=4}</li>
+    <li><strong>Parasympathetic division</strong> – supports “rest and digest” activities that conserve energy and maintain homeostasis.:contentReference[oaicite:5]{index=5}</li>
+  </ul>
+
+  <h2>Physiological Significance</h2>
+  <p>The PNS plays essential roles in daily functioning:</p>
+  <ul>
+    <li><strong>Sensory transmission</strong> – relays information about touch, pain, temperature, and body position to the CNS.:contentReference[oaicite:6]{index=6}</li>
+    <li><strong>Motor control</strong> – carries signals from the CNS to muscles for voluntary movement.:contentReference[oaicite:7]{index=7}</li>
+    <li><strong>Involuntary regulation</strong> – the ANS maintains internal stability by controlling heart rate, respiration, digestion, and gland activity.:contentReference[oaicite:8]{index=8}</li>
+  </ul>
+
+  <h2>Clinical Relevance</h2>
+  <p>Disorders of the PNS can lead to conditions like peripheral neuropathy, which causes numbness, weakness, and pain, especially in the hands and feet. These conditions often affect sensory and motor functions, significantly reducing quality of life.:contentReference[oaicite:9]{index=9}</p>
+
+  <footer>
+    <p>© 2026 Revitalised Medicine. All rights reserved.</p>
+    <p><a href="https://revitalisedmedicine.weebly.com/">Back to Home</a></p>
+  </footer>
+
+</body>
+</html>
