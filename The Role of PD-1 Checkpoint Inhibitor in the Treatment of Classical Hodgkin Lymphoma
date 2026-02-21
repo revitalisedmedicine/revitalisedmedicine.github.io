@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Role of PD‑1 Checkpoint Inhibitors in Classical Hodgkin Lymphoma Treatment — Revitalised Medicine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #000;
+            background-color: #fff;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            color: #8B0000;
+            font-size: 2rem;
+        }
+        p, li {
+            margin-bottom: 1em;
+        }
+        .author-date {
+            font-size: 0.9rem;
+            color: #444;
+            margin-bottom: 1em;
+        }
+        .reference {
+            font-size: 0.9rem;
+            color: #444;
+            margin-top: 2em;
+        }
+        a {
+            color: #8B0000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <h1>The Role of PD‑1 Checkpoint Inhibitors in Classical Hodgkin Lymphoma Treatment</h1>
+        <div class="author-date">Moon Hoang · Oncology Editor in Chief at Revitalised Medicine · 16 August 2025</div>
+
+        <p><em>Nivolumab, a checkpoint inhibitor that ensures immune T Helper (TH) cells are activated by blocking the latter's PD‑1 receptors, targets molecular pathways of Classical Hodgkin lymphoma development in a cell. Hence, when drugs containing nivolumab are administered to a patient's bloodstream, TH cells are able to destroy the cancerous cells</em> (Weniger and Küppers). :contentReference[oaicite:1]{index=1}</p>
+
+        <p>Lymphoma — Without the help of the lymphatic system, our body cannot fight against foreign pathogens. The lymphatic system is a complex network consisting of lymph nodes situated throughout the body. Lymphoma, a type of cancer that affects the lymphatic system, is characterised by excessive growth and changes in healthy lymphatic cells. Hodgkin Lymphoma is one of the main subtypes of lymphoma. :contentReference[oaicite:2]{index=2}</p>
+
+        <p>Classical Hodgkin Lymphoma (CHL) — CHL is one of the subtypes of Hodgkin Lymphoma and is identified by the presence of mononuclear Hodgkin cells and large multinuclear Reed‑Sternberg cells (HRS). These cells are derived from B lymphocytes that undergo various mutations and genetic rearrangements. HRS cells make up only 5% of the tumour space, while they are surrounded by inflammatory infiltrates of T cells, B cells, natural killer cells, and mast cells. Cytokines released by these immune cells help the HRS cells to survive within the body. :contentReference[oaicite:3]{index=3}</p>
+
+        <p>While CHL’s aetiology is not known, it is suggested to have some relation to Epstein‑Barr virus infection, genetic predisposition (where there is a high risk for patients with a family history of lymphoma or due to genetic mutations), immune suppression due to HIV infection or autoimmune disease, chronic inflammation and exposure to toxic chemicals. Individuals aged between 20 and 30 years old, 55 years old and above, and especially men are at a higher risk of developing CHL. Patients with CHL may experience symptoms, such as painless swollen lymph nodes in the neck, armpits, or groin, fever, night sweats, and weight loss. If timely treatment is not given, severe infections and secondary cancers will develop. :contentReference[oaicite:4]{index=4}</p>
+
+        <p>With advanced treatment, CHL has become more manageable and has an overall high cure rate of 95%. Yet, patients often suffer relapse or develop late malignancies, posing a clinical challenge in both treating relapsed cases and avoiding side effects post‑treatment. :contentReference[oaicite:5]{index=5}</p>
+
+        <h2>Treatment</h2>
+        <p>Treating CHL conventionally involves stage‑specific chemotherapy and optional radiotherapy. For relapsed and refractory cases, patients will be prescribed high‑dose chemotherapies and haematopoietic stem cell transplantation as second‑line therapies. The side effects of chemotherapy vary, but some common signs are fatigue, hair loss, thrombocytopenia, neutropenia, high risk of infection, anaemia and fertility problems. Similar to chemotherapy, radiotherapy is followed by risks, including hair loss, tooth decay, dry mouth, shortness of breath, vomiting and bladder irritation. In some rare cases, patients can develop secondary cancers. While the cure rate for conventional treatment is 80%, up to 20% of patients suffer relapse and are treated with intensive second‑line therapies followed by concerning after‑effects. :contentReference[oaicite:6]{index=6}</p>
+
+        <p>Brentuximab Vedotin (BV), an antibody‑drug conjugate, is another option used to treat CHL in children over the age of 2 and adults. BV can be used in combination with other treatments. The use of BV can cause a series of side effects, such as brain infection, pancreatitis, ketoacidosis, low blood cell counts, and memory problems. :contentReference[oaicite:7]{index=7}</p>
+
+        <h2>Mechanism of Action of Checkpoint Inhibitor PD‑1</h2>
+        <p>The Reed‑Sternberg cells (RS) exhibit genetic amplification of the 9p24.1 locus, leading to the overexpression of programmed death ligand 1 (PD‑L1) and programmed death ligand 2 (PD‑L2). On T‑cells, there are PD‑1 receptors; when bound with PD‑L1, T cells will be suppressed and can no longer kill the cancerous cells. Taking advantage of this, RS cells exploit the production of PD‑L1 to deactivate the immune cells. This disease’s unique biology opens doors to the discovery of PD‑1 checkpoint inhibitor nivolumab, which is approved by the US Food and Drug Administration (FDA). Checkpoint inhibitors work by blocking PD‑1 on T‑cells, activating them so they can perform their function. :contentReference[oaicite:8]{index=8}</p>
+
+        <h2>Application of Nivolumab within the Clinical Setting</h2>
+        <p>In a study done in relapsed patients after autologous stem cell transplant (ASTC) and brentuximab vedotin (BV), they were then given nivolumab, with the following findings: a response occurred in 87% of patients, and the progression‑free survival at 6 months was 86%. Only 22% of the patients experienced adverse effects as a result of this treatment. :contentReference[oaicite:9]{index=9}</p>
+
+        <p>Although nivolumab's application is admittedly efficient in treating relapsed patients, its adverse effects are not to be overlooked. According to Armand et al., some common after‑effects patients experienced were fatigue (23%), diarrhea (15%), and infusion‑related reactions. Some common grade 3 and grade 4 drug‑related adverse events observed were lipase increases (5%), neutropenia (3%), and an increase in alanine transaminase — associated with liver damage (3%). :contentReference[oaicite:10]{index=10}</p>
+
+        <h2>Conclusion</h2>
+        <p>Overall, studies have shown the clinical benefit that nivolumab exhibits, demonstrated through a high and lasting response rate in relapsed patients. These checkpoint inhibitors are a promising option for patients who are ineligible or have failed other treatments. Similar to other previously mentioned treatments, nivolumab does not come without limitations. This suggests that the long‑term efficacy of the drug is still under question and thus requires development, as well as close monitoring of patients. Despite the drawbacks, this breakthrough signifies an advancement in treating Hodgkin lymphoma. To improve this treatment, incorporating the PD‑1 checkpoint inhibitor with other treatments to enhance the efficacy and considering investigating this treatment as front‑line therapy instead of allocating it to relapsed cases is recommended. :contentReference[oaicite:11]{index=11}</p>
+
+        <div class="reference">
+            <h2>References</h2>
+            <p>Armand, P., Engert, A., Younes, A., Fanale, M., Santoro, A., Zinzani, P. L., … Shipp, M. A., Kato, K., … & Ansell, S. M. (2018). Nivolumab for relapsed/refractory classic Hodgkin lymphoma after failure of autologous hematopoietic cell transplantation: Extended follow‑up of the multicohort single‑arm phase II Checkmate 205 trial. Journal of Clinical Oncology, 36(14), 1428–1439. :contentReference[oaicite:12]{index=12}</p>
+            <p>Chemotherapy Side Effects. American Cancer Society. (2025, May 15). https://www.cancer.org/cancer/managing-cancer/treatment-types/chemotherapy/chemotherapy-side-effects.html. :contentReference[oaicite:13]{index=13}</p>
+            <p>Drugs.com. (2024, February 29). Brentuximab Vedotin Uses, Side Effects & Warnings. https://www.drugs.com/mtm/brentuximab-vedotin.html. :contentReference[oaicite:14]{index=14}</p>
+            <p>Lee, C., & An, Y. (2024). Deciphering the Genetic Complexity of Classical Hodgkin Lymphoma: Insights and Effective Strategies. Current Genomics, 25(5), 334–342. :contentReference[oaicite:15]{index=15}</p>
+            <p>Mayo Clinic. Hodgkin lymphoma (Hodgkin disease). (2024). https://www.mayoclinic.org/diseases-conditions/hodgkins-lymphoma/symptoms-causes/syc-20352646. :contentReference[oaicite:16]{index=16}</p>
+            <p>Munir, F., Hardit, V., Sheikh, I. N., … & Khazal, S. (2023). Classical Hodgkin Lymphoma: From Past to Future—A Comprehensive Review of Pathophysiology and Therapeutic Advances. International Journal of Molecular Sciences, 24(12), 10095. :contentReference[oaicite:17]{index=17}</p>
+            <p>Sachithanandam, S. V., & Tangella, K. (2024). Classic Hodgkin Lymphoma. https://www.dovemed.com/diseases-conditions/classic-hodgkin-lymphoma. :contentReference[oaicite:18]{index=18}</p>
+            <p>Weniger, M. A., & Küppers, R. Molecular biology of Hodgkin lymphoma. Leukemia, 35, 968–981 (2021). :contentReference[oaicite:19]{index=19}</p>
+        </div>
+
+    </div>
+</body>
+</html>
