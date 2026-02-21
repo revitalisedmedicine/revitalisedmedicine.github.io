@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI‑Powered Screening Tools: A New Frontier in Cardiology</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>AI‑Powered Screening Tools: A New Frontier in Cardiology</h1>
+    <div class="meta">Ifza Zia · Cardiology Staff Writer at Revitalised Medicine · 19 September 2025</div>
+  </header>
+
+  <!-- Replace this with the actual image file -->
+  <img src="ai-powered-screening.jpg" alt="AI cardiac screening illustration">
+
+  <p>Project EchoNext achieved an AUROC (Area Under Receiver Operating Characteristic Curve) of eighty‑five percent in internal tests and between seventy‑eight and eighty percent in external hospitals, showing strong ability to distinguish between healthy hearts and those with disease. :contentReference[oaicite:1]{index=1}</p>
+
+  <p>As artificial intelligence has taken over the healthcare industry, it has proven both fruitful and innovative in diagnosing and treating conditions. Recent developments in cardiology show promising progress with AI‑powered screening tools that can catch heart disease earlier and in more accessible settings. :contentReference[oaicite:2]{index=2}</p>
+
+  <h2>AI ECG Screening with EchoNext</h2>
+  <p>A notable example is the “EchoNext” tool developed by Columbia University and NewYork‑Presbyterian Hospital. This AI system analyzes standard electrocardiograms (ECGs) — electrical recordings of heart activity — to flag patients who may have structural heart disease such as valve abnormalities or thickened heart muscle. :contentReference[oaicite:3]{index=3}</p>
+
+  <p>In testing against thirteen cardiologists, EchoNext achieved seventy‑seven percent accuracy in identifying structural heart disease — outperforming the doctors’ average of sixty‑four percent. This suggests the potential for routine ECGs to serve as powerful screening tools, especially where access to specialized imaging is limited. :contentReference[oaicite:4]{index=4}</p>
+
+  <h2>AI‑Enhanced Stethoscopes</h2>
+  <p>Another breakthrough is an AI‑powered stethoscope developed by researchers at Imperial College London and Imperial College Healthcare NHS Trust in partnership with Eko Health Inc. :contentReference[oaicite:5]{index=5} This device records heart sounds and ECG signals before sending them for rapid AI analysis, enabling diagnosis of heart failure, valve disease, and abnormal rhythms in about fifteen seconds. :contentReference[oaicite:6]{index=6}</p>
+
+  <p>In a UK trial with around 12,000 patients, those evaluated by the AI stethoscope had significantly higher diagnosis rates for heart failure, atrial fibrillation, and valve disease compared to traditional methods — suggesting such tools could improve early detection in primary care settings. :contentReference[oaicite:7]{index=7}</p>
+
+  <h2>Considerations & Challenges</h2>
+  <p>Despite these promising advances, integrating AI screening tools into everyday clinical practice presents challenges. Models trained in research settings may not perform as well in diverse real‑world populations, and false positives can lead to unnecessary follow‑up testing or anxiety. :contentReference[oaicite:8]{index=8}</p>
+
+  <p>Concerns around regulatory approval, data privacy, and interpretability — helping clinicians and patients understand how AI reached a diagnosis — are also critical for wide adoption. :contentReference[oaicite:9]{index=9}</p>
+
+  <h2>Future of Cardiology Screening</h2>
+  <p>Ultimately, AI‑powered screening tools represent an exciting new frontier in cardiology with the potential to democratize access to early detection, especially where specialized imaging is scarce. Ongoing validation and thoughtful clinical integration will determine how broadly these benefits can be realized. :contentReference[oaicite:10]{index=10}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Bartusik‑Aebisher, D., et al. (2025). Artificial Intelligence and ECG: A New Frontier in Cardiac Diagnostic Systems. Biomedicines, 13(7), 1685. :contentReference[oaicite:11]{index=11}</li>
+      <li>EchoNext AI tool shows improved detection of structural heart disease vs cardiologists. :contentReference[oaicite:12]{index=12}</li>
+      <li>Imperial College London & Eko Health AI stethoscope detects heart conditions rapidly. :contentReference[oaicite:13]{index=13}</li>
+      <li>Eko Health Inc. develops AI‑enabled digital stethoscopes for cardiovascular detection. :contentReference[oaicite:14]{index=14}</li>
+    </ul>
+  </section>
+</article>
+
+</body>
+</html>
