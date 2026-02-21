@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bridging the Diagnostic Gap: Improving Access to Immunohistochemistry in Resource‑Limited Regions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Bridging the Diagnostic Gap: Improving Access to Immunohistochemistry in Resource‑Limited Regions</h1>
+    <div class="meta">Health Advocacy Staff Writer · Revitalised Medicine · 2025</div>
+  </header>
+
+  <!-- Replace this with the actual image you download -->
+  <img src="ihc-access.jpg" alt="Laboratory preparing immunohistochemistry slides">
+
+  <p>Immunohistochemistry (IHC) is a critical laboratory technique used to identify specific proteins in tissue samples, making it indispensable for diagnosing many cancers and guiding treatment decisions. In high‑income countries, IHC is widely available and often automated, providing timely and accurate diagnostic information. However, in many low‑ and middle‑income regions, access to IHC remains limited due to cost, infrastructure, and workforce challenges. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/bridging-the-diagnostic-gap-improving-access-to-immunohistochemistry-in-resource-limited-regions.html))</p>
+
+  <h2>Why IHC Matters</h2>
+  <p>IHC enhances standard tissue analysis by using antibodies to detect proteins associated with disease processes. This allows pathologists to confirm diagnoses, classify tumors, and determine the molecular characteristics that influence treatment choices. Without IHC, many cases may be misclassified or require repeated testing, delaying care and potentially leading to less optimal therapeutic decisions. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/bridging-the-diagnostic-gap-improving-access-to-immunohistochemistry-in-resource-limited-regions.html); see also Santiago et al., 2018) :contentReference[oaicite:0]{index=0}</p>
+
+  <h2>Barriers in Resource‑Limited Regions</h2>
+  <p>Several challenges prevent widespread access to IHC in low‑resource regions:</p>
+  <ul>
+    <li><strong>High equipment and reagent costs</strong> – Automated IHC machines and reagents can be expensive to purchase and maintain, especially where import duties and customs delays increase costs. Many hospitals resort to manual small‑batch techniques to reduce costs. :contentReference[oaicite:1]{index=1}</li>
+    <li><strong>Limited pathology infrastructure</strong> – Many regions lack basic pathology services, forcing samples to be sent to distant laboratories with long turnaround times. This gap delays diagnosis and treatment. :contentReference[oaicite:2]{index=2}</li>
+    <li><strong>Workforce shortages</strong> – Training and retaining skilled histotechnologists and pathologists is difficult in areas with limited educational resources and professional support. :contentReference[oaicite:3]{index=3}</li>
+  </ul>
+
+  <h2>Models for Improvement</h2>
+  <p>Successful initiatives in various low‑resource settings have shown that capacity can be built with targeted strategies such as:</p>
+  <ul>
+    <li><strong>Training workshops and capacity building</strong> – Short, intensive training programs for local pathologists and technicians improve IHC proficiency and diagnostic accuracy. :contentReference[oaicite:4]{index=4}</li>
+    <li><strong>Manual, reagent‑efficient protocols</strong> – In places without automated machinery, using manual IHC protocols with efficient reagent use can provide reliable staining and is more sustainable long‑term. :contentReference[oaicite:5]{index=5}</li>
+    <li><strong>Regional hub models</strong> – Centralized IHC hubs serving multiple hospitals can concentrate expertise and equipment, improving turnaround and quality. :contentReference[oaicite:6]{index=6}</li>
+  </ul>
+
+  <h2>Looking Forward</h2>
+  <p>To bridge the diagnostic gap, stakeholders must prioritise investments in laboratory infrastructure, workforce development, and policy initiatives that include IHC as an essential diagnostic service. Efforts to include IHC testing in national insurance programs and cancer control plans can reduce financial barriers and improve access. Advances in digital pathology and shared diagnostic networks may also play a role in expanding access while maintaining quality assurance. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/bridging-the-diagnostic-gap-improving-access-to-immunohistochemistry-in-resource-limited-regions.html); trends from global diagnostic gap analyses) :contentReference[oaicite:7]{index=7}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Bridging the Diagnostic Gap: Improving Access to Immunohistochemistry in Resource‑Limited Regions. <em>Revitalised Medicine</em>, 2025. ([revitalisedmedicine.weebly.com](https://revitalisedmedicine.weebly.com/bridging-the-diagnostic-gap-improving-access-to-immunohistochemistry-in-resource-limited-regions.html))</li>
+      <li>Santiago T., et al. Improving Immunohistochemistry Capability for Pediatric Cancer Care in the Central American and Caribbean Region: A Report From the AHOPCA Pathology Working Group. J Glob Oncol, 2018. :contentReference[oaicite:8]{index=8}</li>
+      <li>Patel K., et al. Development of immunohistochemistry services for cancer care in western Kenya: Implications for low‑ and middle‑income countries. Afr J Lab Med, 2016. :contentReference[oaicite:9]{index=9}</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
