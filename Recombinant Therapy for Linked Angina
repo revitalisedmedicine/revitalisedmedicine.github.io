@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Recombinant Therapy for Linked Angina</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Recombinant Therapy for Linked Angina</h1>
+    <div class="meta">Ifza Zia · Cardiology Staff Writer at Revitalised Medicine · 5 February 2026</div>
+  </header>
+
+  <!-- Replace this with the actual image file you download -->
+  <img src="recombinant-therapy-linked-angina.jpg" alt="Heart and angiogenic therapy illustration">
+
+  <p>Emerging device‑based and interventional strategies are being developed to target refractory angina through two principal mechanisms: neural pain modulation and enhanced myocardial perfusion. Neural‑targeted approaches include transcutaneous electrical nerve stimulation (TENS), subcutaneous electrical nerve stimulation (SENS), and spinal cord stimulation (SCS). Perfusion‑targeted therapies include enhanced external counterpulsation (EECP), transmyocardial laser revascularization (TMR), and cell‑based or recombinant therapies that promote improved myocardial blood flow and angiogenesis. These options can provide symptom relief in individuals with chronic refractory angina who are not candidates for further conventional revascularization. :contentReference[oaicite:0]{index=0}</p>
+
+  <p>“Linked angina” refers to a subtype of chest pain in which stimuli from the esophagus trigger or worsen cardiac ischemia symptoms via the cardio‑esophageal reflex — a neural pathway that reduces coronary blood flow when the esophagus is irritated. Unlike classic angina caused by fixed coronary artery obstruction, linked angina results from neural‑induced effects, so traditional anti‑anginal drugs such as nitrates or beta‑blockers may not fully relieve symptoms. :contentReference[oaicite:1]{index=1}</p>
+
+  <h2>Recombinant Therapy Explained</h2>
+  <p>Recombinant therapy has been proposed as a novel approach for linked angina by promoting the growth of new blood vessels (angiogenesis) and improving microvascular perfusion in the myocardium. This strategy involves delivering genes that encode pro‑angiogenic factors such as vascular endothelial growth factor (VEGF) to cardiac tissue, enhancing collateral vessel formation and increasing oxygen delivery to ischemic areas of the heart. These mechanisms have been evaluated in related disorders like refractory angina. :contentReference[oaicite:2]{index=2}</p>
+
+  <p>Most research on recombinant and gene‑based therapies has focused on refractory angina — severe chest pain that persists despite maximal medical therapy and attempts to restore blood flow. By repairing vascular pathways and stimulating endothelial function, these therapies aim to improve myocardial perfusion and reduce ischemic symptoms. Although direct evidence in linked angina remains limited, theoretical benefits suggest recombinant techniques could help mitigate ischemia triggered by neural reflexes. :contentReference[oaicite:3]{index=3}</p>
+
+  <h2>Challenges and Future Research</h2>
+  <p>Despite its potential, recombinant therapy for linked angina faces several challenges. Effective delivery of therapeutic genes to the myocardium and ensuring targeted uptake remain hurdles, especially given individual variations in anatomy and disease severity. Immune responses to viral vectors or therapeutic genes can also limit effectiveness in some patients. :contentReference[oaicite:4]{index=4}</p>
+
+  <p>Another major challenge is the current lack of large‑scale clinical trials specifically evaluating recombinant or pro‑angiogenic therapies in linked angina populations. Most existing clinical evidence focuses on broader refractory angina syndromes or coronary artery disease. Future research should prioritize well‑designed trials that integrate modern imaging and biomarkers to identify patients most likely to benefit from these biologically targeted approaches. :contentReference[oaicite:5]{index=5}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Recombinant Therapy for Linked Angina. <em>Revitalised Medicine</em>, Ifza Zia, 5 February 2026. :contentReference[oaicite:6]{index=6}</li>
+      <li>Guddeti R.R., et al. A VEGF gene therapy approach for refractory angina: Clinical development overview. <em>Expert Opin Investig Drugs</em>, 2025. :contentReference[oaicite:7]{index=7}</li>
+      <li>Nakamura K., et al. Angiogenic gene therapy for refractory angina: EXACT Phase 2 trial results. <em>Circ Cardiovasc Interventions</em>, 2024. :contentReference[oaicite:8]{index=8}</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
