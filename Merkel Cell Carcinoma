@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Merkel Cell Carcinoma</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #000;
+      line-height: 1.7;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: #fff;
+    }
+    h1, h2 {
+      font-weight: bold;
+      margin-top: 1.5em;
+    }
+    p, li {
+      margin: 1em 0;
+    }
+    ul, ol {
+      margin: 1em 0 1em 2em;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #333;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
+    }
+    a { color: crimson; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .image { margin: 20px 0; }
+  </style>
+</head>
+<body>
+
+  <h1>Merkel Cell Carcinoma</h1>
+  <p><em>Moon Hoang · Oncology Editor in Chief at Revitalised Medicine<br>11 November 2025</em></p>
+
+  <p><strong>With its seemingly ordinary appearance of a simple red skin bump, Merkel cell carcinoma can be challenging to diagnose.</strong> Sometimes, this hidden condition is overlooked and may only be noticed once it has significantly metastasized. Coupled with its rarity and limited understanding of its disease mechanism, treating MCC presents a major challenge for clinicians (Fahrner & Tangella, 2022).​</p>
+
+  <h2>Overview</h2>
+  <p>Merkel cells, associated with touch sensation, are found in the epidermis (“What is a Merkel Cell?,” n.d.). They are also classified as skin neuroendocrine cells for their hormonal production (“What is a Merkel Cell?,” n.d.). Rapid Merkel cell proliferation leads to MCC, and early‑stage MCC can metastasize across the body (Merkel cell carcinoma – Symptoms and causes – Mayo Clinic 2025).​</p>
+
+  <p>The source of MCC remains unknown, as investigators have suggested that the condition arises from an epidermal or dermal stem cell, rather than from differentiated Merkel cells (Brady & Puckett, 2025). Merkel cell polyomavirus (MCPyV) was detected in eighty percent of MCC cases, suggesting its role as a causative agent (Brady & Puckett, 2025). MCPyV infection usually begins at an early age, yet is asymptomatic (Brady & Puckett, 2025). During MCC development, MCPyV first integrates its DNA into the host genome, mutating to disable its replicating mechanism while continuing viral oncoprotein expression (Brady & Puckett, 2025). The resulting proteins, the large T and small T antigens, inactivate the tumor suppressor pathway and promote cell division (Brady & Puckett, 2025).​</p>
+
+  <h2>Risk Factors</h2>
+  <p>Moreover, individuals exposed to UV rays and who undergo immunosuppression following organ transplants, HIV/AIDS, and haematological cancer are at risk of developing MCC (Brady & Puckett, 2025). Other risk factors include having pale skin (due to reduced melanin levels and thus less protection from solar radiation that frequently leads to skin cancer), having a history of skin cancer, and old age (as MCC is common in individuals aged 50 and above) (Merkel cell carcinoma – Symptoms and causes – Mayo Clinic 2025). Regardless, MCC’s global prevalence is remarkably low.​</p>
+
+  <h2>Incidence</h2>
+  <p>The annual worldwide MCC incidence rate is 0.6 per 100,000 individuals; however, this data is extrapolated from case reports due to the condition’s rarity, varying diagnostic criteria, and healthcare quality across multiple countries, which may reduce its reliability (Li et al., 2024). Australia has been reported to have the highest incidence rate of 2.5 and a death rate between thirty‑three and forty‑six percent (Li et al., 2024). The country’s proximity to the equator was believed to be the stimulus for MCC development, as it involves direct exposure to intense UV radiation, along with a predominantly white population and a preference for an outdoor lifestyle (Li et al., 2024).​</p>
+
+  <h2>Symptoms</h2>
+  <p>Areas exposed to the sun (face, neck, and arms) are highly susceptible to MCC; however, regions that do not receive much sunlight exposure, like the inside of the nose and esophagus, can also be infected (What is Merkel Cell Carcinoma?, n.d.). MCC typically manifests as a painless pink, red‑brown, or purple bump on the skin that grows rapidly (Merkel cell carcinoma – Symptoms and causes – Mayo Clinic 2025). Patients may also, though rarely, develop swollen lymph nodes around affected sites and experience fatigue, inappetence, and sudden weight loss (Merkel Cell Carcinoma, n.d.). In advanced‑stage MCC, patients may feel pain and numbness in the infected region (Merkel Cell Carcinoma, n.d.).​</p>
+
+  <h2>Treatment</h2>
+  <p>MCC’s aggressive nature requires personalized treatment for each stage, which falls under one of three categories: local disease, locoregional disease, and metastatic disease (Brady & Puckett, 2025). Therapeutic options for the local disease stage include removal of the primary tumor and a small portion of the surrounding margin (Brady & Puckett, 2025). Due to MCC’s sensitivity to radiation, this therapy is highly recommended, especially in the case of close margins (cancer cells in proximity but not in contact with healthy cells) and positive margins (cancer cells are not completely excised and are found remaining in tissue) in high‑risk patients (Brady & Puckett, 2025; Guide to Understanding Surgical Margins, 2022).​</p>
+
+  <p>If MCC spreads to nearby lymph nodes, patients are advised to undergo complete lymph node removal or radiotherapy (Brady & Puckett, 2025). When lymph nodes are severely affected, where extracapsular extension (cancer cells escaping the lymph node’s capsule and spreading outward) is present, radiotherapy is administered immediately after lymph nodes removal to prevent relapse (Brady & Puckett, 2025). Furthermore, clinical trials have demonstrated immunotherapy’s effectiveness in locoregional disease control. In particular, prescribing patients nivolumab before lymph node dissection has significantly improved tumor regression and the recurrence rate (Brady & Puckett, 2025).​</p>
+
+  <p>Beyond locoregional disease, metastasized MCC requires additional therapeutic approaches. In metastatic disease, two therapeutic options include cytotoxic chemotherapy and immunotherapy. In chemotherapy treatment, cytotoxic agents disrupt the cell cycle and kill rapidly dividing cells (Eldridge & Jelic, 2025). Cytotoxic agents primarily consist of platinum, etoposide and cyclophosphamide (Rabinowits, 2017).​</p>
+
+  <p>Data associated with chemotherapy as an adjuvant therapy is limited due to various regimens used, lack of controlled and long‑term clinical trials, and small patient sample sizes (Rabinowits, 2017). A cohort of 62 patients treated with first‑line and second‑line chemotherapy yielded response rates of fifty‑five percent and twenty‑three percent, respectively (Rabinowits, 2017). The median progression‑free survival (PSF) was ninety‑four days for first‑line chemotherapy and sixty‑one days for second‑line treatment, with an overall median survival period of 9.5 months (Rabinowits, 2017). Notably, patients experienced toxic side effects and a limited response duration, highlighting the need for refined cancer therapies (Rabinowits, 2017).​</p>
+
+  <p>On the other hand, in a study where pembrolizumab (an immune‑based therapy) was used, the PSF was nine months (Brady & Puckett, 2025). Immunotherapy’s productivity in MCC treatment was due to its restorative ability that facilitates T‑cells’ attack towards tumor cells (Brady & Puckett, 2025). Retifanlimab, a PD‑1 inhibitor, was approved for application in last‑stage malignancy (Brady & Puckett, 2025). In a clinical trial, the drug achieved a response rate of fifty‑two percent and a long‑lasting response in many patients (Brady & Puckett, 2025).​</p>
+
+  <footer>
+    <p>© 2026 Revitalised Medicine. All rights reserved.</p>
+    <p><a href="https://revitalisedmedicine.weebly.com/">Back to Home</a></p>
+  </footer>
+
+</body>
+</html>
