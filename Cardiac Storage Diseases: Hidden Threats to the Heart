@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cardiac Storage Diseases: Hidden Threats to the Heart</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Cardiac Storage Diseases: Hidden Threats to the Heart</h1>
+    <div class="meta">Ifza Zia · Cardiology Staff Writer at Revitalised Medicine · 6 October 2025</div>
+  </header>
+
+  <!-- Replace with the actual image you download -->
+  <img src="cardiac-storage-diseases.jpg" alt="Heart illustration related to storage diseases">
+
+  <p>Fabry disease, caused by a deficiency of the enzyme alpha‑galactosidase A — responsible for breaking down a fatty substance called globotriaosylceramide (Gb3) — is a rare inherited disorder in the lysosomal storage disease group. When this enzyme is missing or present in lower concentrations, Gb3 gradually accumulates inside cells throughout the body, especially in blood vessel walls, the heart, kidneys, and nerves. This buildup impairs organ function and can lead to many problems. :contentReference[oaicite:0]{index=0}</p>
+
+  <p>In the heart, **Fabry disease often causes muscle thickness, irregular rhythms, and sometimes heart failure**. In the kidneys, it can result in protein loss and renal failure, while in the nervous system it can lead to burning pain in the hands and feet and an increased risk of stroke. Skin rashes (angiokeratomas) and eye tissue changes may also appear. :contentReference[oaicite:1]{index=1}</p>
+
+  <p><strong>Cardiac storage diseases</strong> are a subset of metabolic and infiltrative disorders in which abnormal amounts of certain molecules — such as glycogen, lipids, glycosphingolipids, or proteins — accumulate within cardiac cells or the interstitium, impairing the heart’s structure and function. These conditions may resemble more common heart diseases such as hypertrophic cardiomyopathy or heart failure, which makes their diagnosis challenging but critical. :contentReference[oaicite:2]{index=2}</p>
+
+  <p>Leading cardiology organizations like the American Heart Association (AHA) and American College of Cardiology (ACC) emphasize precise diagnosis because **storage disorders may respond to specialized therapies or individualized treatment strategies**. :contentReference[oaicite:3]{index=3}</p>
+
+  <h2>Major Types of Cardiac Storage Diseases</h2>
+  <p>Common storage disorders that affect the heart include:</p>
+  <ul>
+    <li><strong>Lysosomal storage disorders</strong> such as Fabry, Pompe, and Danon disease — where failure to degrade substrates within lysosomes causes their buildup and organ dysfunction. :contentReference[oaicite:4]{index=4}</li>
+    <li><strong>Glycogen storage disorders</strong> like Cori and Forbes disease — where glycogen accumulates in cardiac muscle cells and electrical conduction systems, resulting in cardiomyopathy or arrhythmias. :contentReference[oaicite:5]{index=5}</li>
+  </ul>
+
+  <h2>How These Diseases Harm the Heart</h2>
+  <p>Accumulation of abnormal substances in cardiac cells or interstitial spaces disrupts normal muscle function, often causing:</p>
+  <ul>
+    <li>Thickened ventricular walls (similar to hypertrophy)</li>
+    <li>Diastolic dysfunction or **restrictive cardiomyopathy** — a condition where the heart is stiff and cannot fill properly with blood. Restrictive cardiomyopathy may be caused by storage diseases among other factors. :contentReference[oaicite:6]{index=6}</li>
+    <li>Arrhythmias or conduction abnormalities</li>
+    <li>Progressive heart failure</li>
+  </ul>
+
+  <h2>Diagnosis and Specialized Tests</h2>
+  <p>Diagnosing cardiac storage diseases often requires a comprehensive approach:</p>
+  <ul>
+    <li>Measurement of specific enzyme activity (e.g., alpha‑galactosidase A in Fabry disease)</li>
+    <li>Advanced cardiac imaging such as echocardiography or cardiac MRI</li>
+    <li>Tissue biopsy when needed, evaluated with special stains to detect deposited materials</li>
+    <li>Genetic testing to confirm inherited metabolic disorders</li>
+  </ul>
+  <p>Because these disorders often mimic other forms of cardiomyopathy, **specialized testing is essential for correct diagnosis and treatment planning**. :contentReference[oaicite:7]{index=7}</p>
+
+  <h2>Treatment and Supportive Care</h2>
+  <p>Management typically involves two goals:</p>
+  <ul>
+    <li><strong>Treat the underlying storage disorder</strong> — such as enzyme replacement therapy in Fabry disease or other targeted treatments where available. :contentReference[oaicite:8]{index=8}</li>
+    <li><strong>Supportive cardiac care</strong> — guideline‑directed heart failure therapies, arrhythmia management, and device therapy (such as pacemakers) when indicated. :contentReference[oaicite:9]{index=9}</li>
+  </ul>
+
+  <p>Recognizing and treating cardiac storage diseases early can significantly alter disease progression and improve patient outcomes, especially before irreversible cardiac damage occurs. :contentReference[oaicite:10]{index=10}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Ifza Zia. Cardiac Storage Diseases: Hidden Threats to the Heart. <em>Revitalised Medicine</em>, 6 October 2025. :contentReference[oaicite:11]{index=11}</li>
+      <li>Nair V., Belanger E.C., Veinot J.P. Lysosomal storage disorders affecting the heart: a review. Cardiovasc Pathol. 2019. :contentReference[oaicite:12]{index=12}</li>
+      <li>Restrictive cardiomyopathy — causes & description. Wikipedia. :contentReference[oaicite:13]{index=13}</li>
+    </ul>
+  </section>
+</article>
+
+</body>
+</html>
