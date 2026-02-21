@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Considerations Using AI in Treating Melanomas and Sarcomas — Revitalised Medicine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #000;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2rem;
+            color: #8B0000;
+        }
+        h2, h3 {
+            color: #8B0000;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        .author-date {
+            font-size: 0.9rem;
+            color: #444;
+            margin-bottom: 1em;
+        }
+        .image-section img {
+            max-width: 100%;
+            height: auto;
+        }
+        .reference {
+            font-size: 0.9rem;
+            color: #444;
+        }
+        a {
+            color: #8B0000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Considerations Using AI in Treating Melanomas and Sarcomas</h1>
+        <div class="author-date">Moon Hoang · Oncology Editor in Chief at Revitalised Medicine · 1 November 2025</div>
+
+        <div class="image-section">
+            <!-- If your Weebly page had an image, insert it here -->
+            <!-- <img src="YOUR_IMAGE_URL" alt="Image description"> -->
+        </div>
+
+        <p>The growing use of artificial intelligence (AI) in various melanoma and sarcoma treatments offers new hope for humanity in the battle against the uncertainty of cancer. Its usefulness in image diagnosis, malignancy detection, and treatment protocol recommendations is not only time‑efficient but also acts as a guide for clinicians in detecting patterns that may appear hidden to human eyes.</p>
+
+        <p>Yet, AI is not without its imperfections, and its weaknesses must be addressed to enhance its application in the clinical setting (Kalidindi et al., 2024).</p>
+
+        <h2>Melanoma, Sarcoma and AI</h2>
+
+        <p>Melanoma begins developing in melanocytes (cells that affect skin pigmentation, melanin) and typically infects areas exposed to UV light, such as the skin on the arms, back and face. In some cases, melanoma arises within the body and even in areas that are not exposed to UV light.</p>
+
+        <p>“Sarcoma” refers to bone and soft tissue cancers. Sarcoma subtypes, numbering over one hundred, and the vast range of infection sites, present a clinical challenge for efficient treatments.</p>
+
+        <p>Modern advancements, including targeted therapies and immunotherapy, have revolutionised the treatment landscape. Yet, their clinical applications are still limited due to their isolated prevalence and informed data deficits. Furthermore, the unpredictability of melanoma and sarcoma underscores the need for a multidisciplinary effort — one that combines evolving technology with the healthcare system.</p>
+
+        <p>Hence, the application of an emerging tool, AI, has improved current sarcoma and melanoma care. Electronic health records (EHRs), for example, have streamlined access to patient information (this includes diagnostic imaging, laboratory results, treatment outcomes and follow‑up treatment data) by incorporating them into a single system. This feature, which is crucial for optimal patient outcomes, promotes communication between oncologists, pathologists, and primary care physicians. Essentially, AI integration and algorithms can guide healthcare professionals by offering alternative treatment approaches and indicating potential problems.</p>
+
+        <h2>Considerations</h2>
+
+        <p>Despite the technological innovation, it is equally important to address the ethical issues associated with it. Collecting and storing patient data raises concerns regarding data privacy. In addition, the data quality AI receives largely depends on patients; thus, bias or incomplete information can alter the perception of this technology, potentially affecting treatment protocols and overall clinical decisions.</p>
+
+        <p>Earlier melanoma patient AI diagnosis shows inaccuracies in darker‑skinned individuals due to the lack of diverse datasets. This indicates healthcare inequalities, in which AI is prevented from performing consistently across different racial populations. Moreover, AI implementation costs represent another major drawback, especially in rural areas and small‑scale healthcare facilities.</p>
+
+        <p>This limitation reduces the likelihood of accessing innovative therapies and exacerbates the socioeconomic gap. Unlike human experts, AI is rigid and processes information solely based on input data, and its interpretational abilities cannot holistically view sarcoma and melanoma conditions. The technology’s inability to comprehend the correlation between tumor characteristics and treatment outcomes raises questions about its trustworthiness in cancer treatment. Specifically, a study reported that AI misinterpreted surgical pen markings on images as indicative of malignancy. Like any other profession, the role of medical professionals may be threatened by over‑reliance on AI.</p>
+
+        <p>Hence, trust between patients and doctors may be reduced, potentially weakening their motivation.</p>
+
+        <h2>Conclusion</h2>
+
+        <p>Considerations regarding personal information, implementation costs, and the fear that AI might replace healthcare professionals highlight the need for thoughtful evaluation and responsible integration into patient care. Most importantly, clinicians should not view AI as a competitor, but as a complementary tool with one main objective — to improve patient outcomes and optimize treatment courses.</p>
+
+        <p>Ultimately, collaboration between innovative technology and humans encourages a precise and thoughtful approach in melanoma and sarcoma care.</p>
+
+        <div class="reference">
+            <h3>References</h3>
+            <p>AI vs. Tumor Boards: Benchmarking Sarcoma Treatments. Sciencemag. (2025, September 10). https://scienmag.com/ai-vs-tumor-boards-benchmarking-sarcoma-treatments/</p>
+            <p>Fuchs, B., Studer, G., Bode‑Lesniewska, B., & Heesen, P. (2023). The Next Frontier in Sarcoma Care: Digital Health, AI, and the Quest for Precision Medicine. Journal of Personalized Medicine, 13(11), 1530. :contentReference[oaicite:0]{index=0}</p>
+            <p>Kalidindi, S. (2024). The Role of Artificial Intelligence in the Diagnosis of Melanoma. Cureus, 16(9). https://doi.org/10.7759/cureus.69818</p>
+            <p>Mayo Clinic – Melanoma symptoms and causes. (2023). https://www.mayoclinic.org/diseases‑conditions/melanoma/symptoms‑causes/syc‑20374884</p>
+            <p>Mayo Clinic – Sarcoma symptoms and causes. (2025). https://www.mayoclinic.org/diseases‑conditions/sarcoma/symptoms‑causes/syc‑20351048</p>
+        </div>
+
+    </div>
+</body>
+</html>
