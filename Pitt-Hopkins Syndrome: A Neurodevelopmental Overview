@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pitt‑Hopkins Syndrome: A Neurodevelopmental Overview</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 1rem 0;
+    }
+    .references {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .references li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Pitt‑Hopkins Syndrome: A Neurodevelopmental Overview</h1>
+    <div class="meta">Edha Talwar · Neurology Staff Writer at Revitalised Medicine · 13 December 2025</div>
+  </header>
+
+  <!-- Replace with the featured image you download -->
+  <img src="pitt-hopkins-syndrome.jpg" alt="Illustration representing Pitt‑Hopkins syndrome">
+
+  <p>Mutations in the <strong>TCF4 gene</strong> disrupt transcriptional regulation, impair neuronal differentiation, and alter neural circuit formation, leading to the cognitive, behavioural, and physical characteristics of Pitt‑Hopkins Syndrome (PTHS). PTHS is a rare neurodevelopmental disorder first described in 1978 by clinicians David Pitt and Ian Hopkins in Melbourne, Australia. Later work reported that the syndrome involves heterozygous loss‑of‑function mutations or deletions in the TCF4 gene on chromosome 18. :contentReference[oaicite:0]{index=0}</p>
+
+  <h2>Clinical Features</h2>
+  <p>Individuals with Pitt‑Hopkins syndrome present a variable but recognisable phenotype encompassing cognitive, physical, and neurological traits:</p>
+  <ul>
+    <li><strong>Cognitive and developmental delays:</strong> Moderate‑to‑severe intellectual disability and delayed motor milestones are common. :contentReference[oaicite:1]{index=1}</li>
+    <li><strong>Language impairment:</strong> Expressive language is often minimal or absent, while receptive language can be relatively stronger. :contentReference[oaicite:2]{index=2}</li>
+    <li><strong>Distinctive physical features:</strong> People with PTHS may have deep‑set eyes, a prominent nasal bridge, and short stature. :contentReference[oaicite:3]{index=3}</li>
+    <li><strong>Neurological and autonomic signs:</strong> Seizures, breathing irregularities (e.g., episodic hyperventilation and breath‑holding), and gastrointestinal issues are frequently observed. :contentReference[oaicite:4]{index=4}</li>
+    <li><strong>Behavioural traits:</strong> Many affected individuals show cheerful demeanours, frequent smiling, laughter, and repetitive movements such as hand‑flapping. Anxiety and sensory sensitivities may also be present. :contentReference[oaicite:5]{index=5}</li>
+  </ul>
+
+  <h2>Genetics and Diagnosis</h2>
+  <p>Pitt‑Hopkins syndrome is caused by mutations in the <em>TCF4</em> gene, which plays a critical role in nervous system development. Most cases occur <strong>de novo</strong> — meaning the mutation arises spontaneously in the affected person rather than being inherited from a parent. Genetic testing to confirm a pathogenic TCF4 variant is the definitive diagnostic method. :contentReference[oaicite:6]{index=6}</p>
+
+  <h2>Management and Prognosis</h2>
+  <p>There is currently no cure for Pitt‑Hopkins syndrome. Clinical care focuses on managing symptoms and supporting development. A multidisciplinary approach helps address seizures, breathing irregularities, motor delays, and communication challenges. Early intervention with therapies such as speech, occupational, and physical therapy optimises developmental outcomes. :contentReference[oaicite:7]{index=7}</p>
+
+  <p>While severity varies between individuals, early and ongoing support can improve quality of life and adaptive functioning. Continued research into molecular interventions and potential gene‑targeted therapies offers hope for future treatment strategies. :contentReference[oaicite:8]{index=8}</p>
+
+  <section class="references">
+    <h2>References</h2>
+    <ul>
+      <li>Edha Talwar. <em>Pitt‑Hopkins Syndrome: A Neurodevelopmental Overview</em>. Revitalised Medicine, 13 December 2025. :contentReference[oaicite:9]{index=9}</li>
+      <li>NIH MedlinePlus Genetics. Pitt‑Hopkins syndrome: clinical description and features. :contentReference[oaicite:10]{index=10}</li>
+      <li>GARD – Genetic and Rare Diseases Information Center. Pitt‑Hopkins syndrome overview and cause. :contentReference[oaicite:11]{index=11}</li>
+      <li>GeneReviews®. Clinical characteristics and management of Pitt‑Hopkins syndrome. :contentReference[oaicite:12]{index=12}</li>
+    </ul>
+  </section>
+
+</article>
+
+</body>
+</html>
