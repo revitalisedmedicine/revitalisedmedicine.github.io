@@ -2,76 +2,48 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Biotechnological Treatments for Huntington's Disease: Emerging Therapies and Clinical Trial Progress</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      color: #000;
-      line-height: 1.7;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 20px;
-      background-color: #fff;
-    }
-    h1, h2, h3 {
-      font-weight: bold;
-      margin-top: 1.5em;
-    }
-    h1 {
-      font-size: 2rem;
-    }
-    p {
-      margin: 1em 0;
-    }
-    ul {
-      margin: 1em 0 1em 2em;
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 0.9rem;
-      color: #333;
-      border-top: 1px solid #ccc;
-      padding-top: 10px;
-    }
+    body { font-family: Arial, sans-serif; color: #000; line-height: 1.7; max-width: 900px; margin: 40px auto; padding: 0 20px; background-color: #fff; }
+    h1, h2, h3 { font-weight: bold; margin-top: 1.5em; }
+    h1 { font-size: 2rem; }
+    p { margin: 1em 0; }
+    ul, ol { margin: 1em 0 1em 2em; }
+    footer { margin-top: 40px; font-size: 0.9rem; color: #333; border-top: 1px solid #ccc; padding-top: 10px; }
+    a { color: crimson; text-decoration: none; }
+    a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
 
-  <h1>Biotechnological Treatments for Huntington's Disease: Emerging Therapies and Clinical Trial Progress</h1>
-  <p><em>By Revitalised Medicine</em></p>
+<h1>Biotechnological Treatments for Huntington's Disease: Emerging Therapies and Clinical Trial Progress</h1>
+<p><em>By Revitalised Medicine</em></p>
 
-  <p>Huntington’s disease (HD) is a fatal, inherited neurodegenerative disorder caused by a mutation in the huntingtin (HTT) gene. It leads to progressive motor dysfunction, cognitive decline, and psychiatric symptoms. Until recently, treatments have focused primarily on symptom management rather than modifying disease progression.</p>
+<p>Huntington's disease (HD) is an inherited neurodegenerative disorder caused by a mutation in the HTT gene, leading to progressive motor dysfunction, cognitive decline, and psychiatric symptoms. Emerging biotechnological treatments aim to modify disease progression rather than only addressing symptoms.</p>
 
-  <h2>Biotechnological Approaches to Treating HD</h2>
+<h2>Gene Therapy</h2>
+<p>Gene therapy approaches, such as AMT-130, use viral vectors to deliver microRNA that reduces mutant huntingtin protein levels. Clinical trials show promise in slowing disease progression.</p>
 
-  <h3>Gene Therapy</h3>
-  <p>Gene therapy strategies aim to reduce or silence the mutant huntingtin gene (mHTT) to slow neurodegeneration. One of the most advanced candidates is AMT‑130, a gene therapy that uses an adeno‑associated virus (AAV) vector to deliver microRNA designed to lower mHTT expression in the brain. Early Phase I/II study results reported substantial slowing of disease progression in some patients, and the approach has generated significant interest. :contentReference[oaicite:0]{index=0}</p>
+<h2>Antisense Oligonucleotides (ASOs)</h2>
+<p>ASOs like tominersen bind HTT mRNA to prevent translation of toxic proteins. Trials continue to evaluate their efficacy and safety.</p>
 
-  <h3>Antisense Oligonucleotides (ASOs)</h3>
-  <p>ASOs are short strands of nucleic acids that bind to the huntingtin mRNA to prevent it from being translated into toxic protein. Roche and Ionis Pharmaceuticals are developing an ASO called tominersen, which continues to be evaluated in clinical trials. :contentReference[oaicite:1]{index=1}</p>
+<h2>Allele-Specific Silencing</h2>
+<p>Targeting only the mutant allele while sparing the normal gene may reduce side effects. Early trials with therapies like WVE-003 show promising reductions in mutant protein levels.</p>
 
-  <h3>Allele‑Specific Silencing</h3>
-  <p>Some therapies aim to specifically target the mutant allele while sparing the normal HTT gene. Wave Life Sciences’ WVE‑003 has shown promising reductions in mHTT levels in early clinical testing, potentially offering improved selectivity and fewer side effects. :contentReference[oaicite:2]{index=2}</p>
+<h2>Small Molecules</h2>
+<p>Oral compounds such as PTC518 aim to reduce mutant huntingtin expression through gene regulation. These therapies are in early stages but may provide convenient, non-invasive options.</p>
 
-  <h3>Small Molecule Approaches</h3>
-  <p>Oral small molecules are also being explored. PTC518 is an example of a compound designed to reduce production of the mutant huntingtin protein by modifying gene expression. This drug has received FDA Fast Track designation, reflecting its potential as a disease‑modifying therapy. :contentReference[oaicite:3]{index=3}</p>
+<h2>Clinical Trial Progress</h2>
+<p>Multiple biotech companies are pursuing gene therapies, ASOs, and small molecules. Early-stage trials suggest these approaches are feasible, and ongoing studies will clarify their potential impact on disease progression.</p>
 
-  <h2>Supportive Biotech Innovation</h2>
+<h2>Conclusion</h2>
+<p>Biotechnological treatments offer hope for disease-modifying therapies in Huntington's disease. While approved options are limited, continued clinical research may soon provide effective interventions for patients worldwide.</p>
 
-  <h3>ReviR Therapeutics Research</h3>
-  <p>Biotech firms like ReviR Therapeutics received major grants to pursue therapies targeting both the mutant huntingtin and pathways involved in disease progression. Their approaches aim to reduce toxic proteins and slow molecular processes that worsen HD pathology. :contentReference[oaicite:4]{index=4}</p>
-
-  <h2>Clinical Trial Landscape</h2>
-  <p>The HD treatment pipeline has expanded significantly, with multiple candidates across early‑stage and mid‑stage clinical trials. This includes gene therapies, ASOs, and small molecules targeting different aspects of disease progression, reflecting a robust biotechnological effort to find disease‑modifying options. :contentReference[oaicite:5]{index=5}</p>
-
-  <h2>Current and Future Outlook</h2>
-  <p>While there are no widely approved treatments that alter the underlying progression of Huntington’s disease yet, recent clinical results and a growing pipeline of biotechnological therapies offer hope that effective interventions could emerge in the near future. Continued research and regulatory advancements will be key to bringing these therapies to patients who currently have limited options.</p>
-
-  <footer>
-    <p>© 2026 Revitalised Medicine. All rights reserved.</p>
-    <p><a href="https://revitalisedmedicine.weebly.com/">Back to Home</a></p>
-  </footer>
+<footer>
+  <p>© 2026 Revitalised Medicine. All rights reserved.</p>
+  <p><a href="https://revitalisedmedicine.weebly.com/">Back to Home</a></p>
+</footer>
 
 </body>
 </html>
