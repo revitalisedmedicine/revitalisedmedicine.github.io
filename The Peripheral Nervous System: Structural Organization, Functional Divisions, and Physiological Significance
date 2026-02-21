@@ -18,15 +18,9 @@
       font-weight: bold;
       margin-top: 1.5em;
     }
-    h1 {
-      font-size: 2rem;
-    }
-    p {
-      margin: 1em 0;
-    }
-    ul {
-      margin: 1em 0 1em 2em;
-    }
+    h1 { font-size: 2rem; }
+    p { margin: 1em 0; }
+    ul, ol { margin: 1em 0 1em 2em; }
     footer {
       margin-top: 40px;
       font-size: 0.9rem;
@@ -34,6 +28,8 @@
       border-top: 1px solid #ccc;
       padding-top: 10px;
     }
+    a { color: crimson; text-decoration: none; }
+    a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
@@ -41,38 +37,30 @@
   <h1>The Peripheral Nervous System: Structural Organization, Functional Divisions, and Physiological Significance</h1>
   <p><em>By Revitalised Medicine</em></p>
 
-  <p>The peripheral nervous system (PNS) includes all the nerves and ganglia outside the brain and spinal cord. It serves as the communication network that connects the central nervous system (CNS) with limbs and organs, enabling sensory perception, motor control, and reflexive responses. Structurally, it encompasses cranial and spinal nerves that branch from the CNS to the periphery of the body.:contentReference[oaicite:0]{index=0}</p>
+  <p>The peripheral nervous system (PNS) is a crucial component of the human nervous system that connects the central nervous system (CNS) to the rest of the body. It facilitates communication between the CNS and limbs, organs, and tissues, allowing for both voluntary and involuntary functions. The PNS includes all neural structures outside the brain and spinal cord, comprising cranial nerves, spinal nerves, and their associated ganglia.</p>
 
   <h2>Structural Organization</h2>
-  <p>The PNS consists of nerve fibers and ganglia. Nerve fibers carry electrical impulses between the CNS and the rest of the body. These include:</p>
+  <p>The PNS is composed of bundles of nerve fibers and ganglia that transmit electrical signals between the CNS and peripheral organs. These structures are classified into two main types:</p>
   <ul>
-    <li><strong>Cranial nerves</strong> – nerves that emerge from the brain to innervate head, neck, and sensory organs.:contentReference[oaicite:1]{index=1}</li>
-    <li><strong>Spinal nerves</strong> – nerves that exit the spinal cord and transmit signals to muscles, skin, and internal organs.:contentReference[oaicite:2]{index=2}</li>
+    <li><strong>Cranial Nerves:</strong> Twelve pairs of nerves that emerge from the brain to innervate the head, neck, and sensory organs, responsible for sensory input and motor output. </li>
+    <li><strong>Spinal Nerves:</strong> Thirty-one pairs of nerves originating from the spinal cord, transmitting motor and sensory signals to and from the body.</li>
   </ul>
 
   <h2>Functional Divisions</h2>
-  <p>The PNS is functionally divided into two major systems:</p>
+  <p>The PNS is divided into two functional systems:</p>
 
   <h3>Somatic Nervous System (SNS)</h3>
-  <p>The somatic nervous system controls voluntary movement and sensory input from the external environment. It carries sensory (afferent) signals to the CNS and motor (efferent) signals from the CNS to skeletal muscles.:contentReference[oaicite:3]{index=3}</p>
+  <p>The SNS controls voluntary movements and transmits sensory information from external stimuli to the CNS. It regulates skeletal muscles and is responsible for conscious perception, reflex arcs, and motor coordination.</p>
 
   <h3>Autonomic Nervous System (ANS)</h3>
-  <p>The autonomic nervous system regulates involuntary body functions such as heart rate, digestion, respiration, and gland activity. It has two main branches:</p>
+  <p>The ANS regulates involuntary body functions, maintaining homeostasis in internal organs, glands, and blood vessels. It is subdivided into:</p>
   <ul>
-    <li><strong>Sympathetic division</strong> – prepares the body for “fight or flight” responses.:contentReference[oaicite:4]{index=4}</li>
-    <li><strong>Parasympathetic division</strong> – supports “rest and digest” activities that conserve energy and maintain homeostasis.:contentReference[oaicite:5]{index=5}</li>
+    <li><strong>Sympathetic Division:</strong> Prepares the body for 'fight or flight' responses during stressful situations by increasing heart rate, dilating bronchi, and mobilizing energy reserves.</li>
+    <li><strong>Parasympathetic Division:</strong> Promotes 'rest and digest' activities by slowing the heart rate, stimulating digestive processes, and conserving energy.</li>
   </ul>
 
   <h2>Physiological Significance</h2>
-  <p>The PNS plays essential roles in daily functioning:</p>
-  <ul>
-    <li><strong>Sensory transmission</strong> – relays information about touch, pain, temperature, and body position to the CNS.:contentReference[oaicite:6]{index=6}</li>
-    <li><strong>Motor control</strong> – carries signals from the CNS to muscles for voluntary movement.:contentReference[oaicite:7]{index=7}</li>
-    <li><strong>Involuntary regulation</strong> – the ANS maintains internal stability by controlling heart rate, respiration, digestion, and gland activity.:contentReference[oaicite:8]{index=8}</li>
-  </ul>
-
-  <h2>Clinical Relevance</h2>
-  <p>Disorders of the PNS can lead to conditions like peripheral neuropathy, which causes numbness, weakness, and pain, especially in the hands and feet. These conditions often affect sensory and motor functions, significantly reducing quality of life.:contentReference[oaicite:9]{index=9}</p>
+  <p>The PNS is essential for integrating sensory input, motor output, and autonomic regulation. It allows humans to interact with the environment, perform precise movements, maintain internal stability, and respond to changes in both internal and external conditions. Disorders of the PNS, such as peripheral neuropathies, can result in sensory deficits, motor impairment, and dysregulation of autonomic functions, significantly affecting quality of life.</p>
 
   <footer>
     <p>© 2026 Revitalised Medicine. All rights reserved.</p>
